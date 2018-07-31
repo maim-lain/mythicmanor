@@ -8,6 +8,17 @@
 
 <br>
 
+### Waifu location schedule:
+Waifu | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
+--- | :---: | :---: | :---:
+Esther | Room | Garden | Room 
+Fanora | ? | ? | ?
+Naira | Room | Cafe | Room
+Nefari | ? | Library | ?
+Velle | ? | ? | ?
+
+<br>
+
 ### New Lark City time schedule:
 Location | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
 --- | :---: | :---: | :---:
@@ -32,25 +43,23 @@ Velle | Naira
 Nefari | Fanora
 Pool | Bathroom
 
-
+<br>
 <br>
 
 ## Sunday
 #### Afternoon:
 - Watch for a bit longer
 - Pool
-- 
 
-#### Night:
-- get
-- money
+#### Late night:
+- dresser stuff
   
 <br>
 <br>
 
 ## Day 2 - mon idk
 #### Morning:
-- .
+- list thing in hall
 
 #### Afternoon:
 - .
@@ -59,9 +68,8 @@ Pool | Bathroom
 random pool or bathroom
 
 Esther:  
-day - garden  
-other - room  
-Morning - Her room | Hang out with her.
+Morning - Her room | Hang out with her.  
+special asdfsdafasfsfd
 
 Fanora:  
 Afternoon - Sweet Treats | Talk to her.
