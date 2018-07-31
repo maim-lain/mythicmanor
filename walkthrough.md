@@ -47,8 +47,10 @@ Pool | Bathroom
 
 <br>
 <br>
+<br>
 
-## Day 0 - Sunday - Week 1
+## Week 1
+### Day 0 - Sunday
 #### Afternoon:
 - Watch for a bit longer
 - Pool
@@ -66,7 +68,7 @@ Pool | Bathroom
 <br>
 <br>
 
-## Day 1 - Monday
+### Day 1 - Monday
 #### Morning:
 - View the bulletin board between the pool and Nefari's room -> Read task -> Accept
 - Esther's room
@@ -74,7 +76,16 @@ Pool | Bathroom
 #### Afternoon:
 - .
 
+<br>
+<br>
+<br>
 
+## Week 2
+### Day 7 - Sunday
+
+### Day 8 - Monday
+
+### Day ? - Sunday - Week 3
 
 
 
