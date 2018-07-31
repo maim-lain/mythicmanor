@@ -46,20 +46,30 @@ Pool | Bathroom
 <br>
 <br>
 
-## Sunday
+## Day 0 - Sunday - Week 1
 #### Afternoon:
 - Watch for a bit longer
 - Pool
 
 #### Late night:
-- dresser stuff
-  
+- Dresser -> Inspect photo
+- Drawer
+    - Search drawer
+    - Inspect note
+- Safe
+    - Inspect safe
+    - Inspect junk -> Fix
+- Computer
+    - Optional: Wallpapers -> Change wallpaper
+    - Surveillance -> Cam 1 -> Install -> Cam (Ester)
+    - Internet -> Pornland -> Choose 'Finish' to exit
+
 <br>
 <br>
 
-## Day 2 - mon idk
+## Day 1 - Monday
 #### Morning:
-- list thing in hall
+- Read the bulletin board between the pool and Nefari's room -> Read task -> Accept
 
 #### Afternoon:
 - .
