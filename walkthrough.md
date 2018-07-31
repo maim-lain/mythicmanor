@@ -6,8 +6,6 @@
 
 [**Mythic Manor - Improvements Mod by Maim Lain**](https://github.com/maim-lain/mythicmanor/blob/master/mod.md)
 
-<br>
-
 ### New Lark City time schedule:
 Location | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
 --- | :---: | :---: | :---:
