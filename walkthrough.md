@@ -10,6 +10,7 @@
 
 ### Waifu location schedule:
 In the morning and night the only places they will be are in their room, the pool, or the bathroom.
+
 Waifu | Afternoon
 --- | :---:
 Esther | Garden
