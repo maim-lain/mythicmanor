@@ -38,12 +38,7 @@ Church | ✓ | ✓ | ✓
 <br>
 
 ### House map:
-Left rooms | Right rooms
---- | ---:
-Esther | Your room
-Velle | Naira
-Nefari | Fanora
-Pool | Bathroom
+![](https://i.lensdump.com/i/8yOhsH.jpg)
 
 <br>
 <br>
