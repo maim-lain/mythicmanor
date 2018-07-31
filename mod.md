@@ -1,4 +1,4 @@
-# Mythic Manor: Improvements Mod
+# Mythic Manor - Improvements Mod
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
