@@ -38,7 +38,8 @@ Church | ✓ | ✓ | ✓
 <br>
 
 ### House map:
-![](https://i.lensdump.com/i/8yOhsH.jpg)
+
+![](https://i.lensdump.com/i/8yOhsH.jpg?raw=true)
 
 <br>
 <br>
