@@ -42,13 +42,17 @@ Church | ✓ | ✓ | ✓
 
 <br>
 <br>
+
+---
+
+<br>
 <br>
 
 ## Week 1
 ### Day 0 - Sunday
 #### Afternoon:
 - Watch for a bit longer
-- Pool
+- Go to the pool
 
 #### Late night:
 - Dresser -> Inspect photo
@@ -65,11 +69,82 @@ Church | ✓ | ✓ | ✓
 
 ### Day 1 - Monday
 #### Morning:
+- Esther 1
+
+asdf
+
 - View the bulletin board between the pool and Nefari's room -> Read task -> Accept
 - Esther's room
 
 #### Afternoon:
 - .
+
+#### Night:
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+
+### Day 2 - Tuesday
+#### Morning:
+- 
+
+#### Afternoon:
+- Esther 2 - noon garden
+
+#### Night:
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+
+### Day 3 - Wednesday
+#### Morning:
+- 
+
+#### Afternoon:
+- 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon - Garden | Give her the item she asked for.
+
+#### Night:
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+
+### Day  - day
+#### Morning:
+- 
+#### Afternoon:
+- 
+#### Night:
+- 
+#### Late night:
+- 
+
+<br>
+<br>
+
+### Day  - day
+#### Morning:
+- 
+#### Afternoon:
+- 
+#### Night:
+- 
+#### Late night:
+- 
+
+<br>
+<br>
 
 <br>
 <br>
@@ -82,12 +157,17 @@ Church | ✓ | ✓ | ✓
 
 ### Day ? - Sunday - Week 3
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
 
 
-random pool or bathroom
 
-Esther:  
-Morning - Her room | Hang out with her.  
+
 Cam (Unblur)​
  | Click on camera in her room and clean it.top left
 Special event 1​
