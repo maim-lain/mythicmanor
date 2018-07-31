@@ -24,4 +24,4 @@
 <br>
 
 ## Installation:
-Just unzip and put it in your game folder. The patch will work with any game version, even future game updates.
+Just unzip and put it in your game folder.
