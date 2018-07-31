@@ -14,7 +14,7 @@
 <br>
 
 ### Waifu location schedule:
-They will always be in their room, the pool, or the bathroom when it is morning and night, but will leave the house when it is noon.
+They will always be in their room, the pool, or the bathroom when it is morning and night, but leave the house at noon.
 
 Waifu | Noon location
 --- | :---:
