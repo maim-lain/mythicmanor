@@ -40,6 +40,8 @@ Park | ✓ | ✓ | ✓
 Doctor's Office | ✓ | ✓ | ✓
 Church | ✓ | ✓ | ✓
 
+thing say recommend patch, skip choice etc
+
 <br>
 <br>
 
@@ -61,23 +63,25 @@ Church | ✓ | ✓ | ✓
     - Inspect note
 - Computer
     - Optional: Wallpapers -> Change wallpaper
-    - Surveillance -> Cam 1 -> Install -> Cam (Ester)
+    - Surveillance -> Cam 1 -> Install -> Cam (Esther)
     - Internet -> Pornland -> Choose 'Finish' to exit
 
 <br>
 <br>
 
 ### Day 1 - Monday
+- Esther Cam (Unblur) | Click on camera in her room and clean it (top left)
+- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
+
 #### Morning:
-- Esther 1
-
-asdf
-
+- Esther 1 - room
+- .
 - View the bulletin board between the pool and Nefari's room -> Read task -> Accept
 - Esther's room
 
 #### Afternoon:
-- .
+- Fanora 1 - Afternoon - Sweet Treats | Talk to her.
+- Naira 1 - Afternoon - Cafe | Chat with her.
 
 #### Night:
 - 
@@ -89,11 +93,13 @@ asdf
 <br>
 
 ### Day 2 - Tuesday
+
 #### Morning:
-- 
+- Fanora 2 - Morning - Her room | Visit her.
 
 #### Afternoon:
 - Esther 2 - noon garden
+- Naira 2 - Afternoon - Cafe | Chat with her.
 
 #### Night:
 - 
@@ -105,14 +111,16 @@ asdf
 <br>
 
 ### Day 3 - Wednesday
+- Fanora 3 - Afternoon - Sweet Treats | Talk to her.
+
 #### Morning:
 - 
 
 #### Afternoon:
-- 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon - Garden | Give her the item she asked for.
+- Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon - Garden | Give her the item she asked for.
 
 #### Night:
-- 
+- Naira 3 - Night - Her room | Visit her.
 
 #### Late night:
 - 
@@ -154,8 +162,14 @@ asdf
 ### Day 7 - Sunday
 
 ### Day 8 - Monday
+- Esther Special event | In morning, watch porn (need: watched porn more than 5 times, Esther’s level is at least 4, day is at least 8.)
+- Naira special event | Cam - Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon
+while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
+    - now able to enter her room at anytime in the noon by asking esther
 
 ### Day ? - Sunday - Week 3
+
+might need to split up the weeks, have a link to each week and put the week in the title name at the top.
 
 <br>
 <br>
@@ -168,23 +182,11 @@ asdf
 
 
 
-Cam (Unblur)​
- | Click on camera in her room and clean it.top left
-Special event 1​
- | In morning, watch porn (need: watched porn more than 5 times,
-Esther’s level is at least 4, day is at least 8.) ** ​
-
 
 Fanora:  
 Afternoon - Sweet Treats | Talk to her.
 
 
-Naira:  
-Afternoon - Cafe | Chat with her.
-Cam​
- | Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon
-while you have a camera in your inventory. Then visit Esther in the garden and ask
-to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
 
 
 Nefari:
