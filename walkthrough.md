@@ -14,10 +14,10 @@ In the morning and night the only places they will be are in their room, the poo
 Waifu | Afternoon
 --- | :---:
 Esther | Garden
-Fanora | ?
+Fanora | Park
 Naira | Cafe
 Nefari | Library
-Velle | ?
+Velle | 
 
 <br>
 
@@ -68,11 +68,14 @@ Pool | Bathroom
 
 ## Day 1 - Monday
 #### Morning:
-- Click the bulletin board between the pool and Nefari's room -> Read task -> Accept
-- 
+- View the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- Esther's room
 
 #### Afternoon:
 - .
+
+
+
 
 
 random pool or bathroom
@@ -80,7 +83,7 @@ random pool or bathroom
 Esther:  
 Morning - Her room | Hang out with her.  
 Cam (Unblur)​
- | Click on camera in her room and clean it.
+ | Click on camera in her room and clean it.top left
 Special event 1​
  | In morning, watch porn (need: watched porn more than 5 times,
 Esther’s level is at least 4, day is at least 8.) ** ​
