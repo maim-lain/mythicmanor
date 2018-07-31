@@ -8,20 +8,25 @@
 
 <br>
 
-### Waifu location schedule:
-In the morning and night the only places they will be are in their room, the pool, or the bathroom.
+### House map:
+![](https://i.lensdump.com/i/8yOhsH.jpg?raw=true)
 
-Waifu | Afternoon
+<br>
+
+### Waifu location schedule:
+They will always be in their room, the pool, or the bathroom when it is morning and night, but will leave the house when it is noon.
+
+Waifu | Noon location
 --- | :---:
 Esther | Garden
 Fanora | Park
 Naira | Cafe
 Nefari | Library
-Velle | 
+Velle | ?
 
 <br>
 
-### New Lark City time schedule:
+### City business hours:
 Location | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
 --- | :---: | :---: | :---:
 Mall | ✓ | ✓ |  
@@ -34,12 +39,6 @@ Art Studio |   | ✓ | ✓
 Park | ✓ | ✓ | ✓
 Doctor's Office | ✓ | ✓ | ✓
 Church | ✓ | ✓ | ✓
-
-<br>
-
-### House map:
-
-![](https://i.lensdump.com/i/8yOhsH.jpg?raw=true)
 
 <br>
 <br>
