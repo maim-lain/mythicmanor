@@ -9,13 +9,14 @@
 <br>
 
 ### Waifu location schedule:
-Waifu | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
---- | :---: | :---: | :---:
-Esther | Room | Garden | Room 
-Fanora | ? | ? | ?
-Naira | Room | Cafe | Room
-Nefari | ? | Library | ?
-Velle | ? | ? | ?
+In the morning and night the only places they will be are in their room, the pool, or the bathroom.
+Waifu | Afternoon
+--- | :---:
+Esther | Garden
+Fanora | ?
+Naira | Cafe
+Nefari | Library
+Velle | ?
 
 <br>
 
@@ -56,9 +57,6 @@ Pool | Bathroom
 - Drawer
     - Search drawer
     - Inspect note
-- Safe
-    - Inspect safe
-    - Inspect junk -> Fix
 - Computer
     - Optional: Wallpapers -> Change wallpaper
     - Surveillance -> Cam 1 -> Install -> Cam (Ester)
@@ -69,7 +67,8 @@ Pool | Bathroom
 
 ## Day 1 - Monday
 #### Morning:
-- Read the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- Click the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- 
 
 #### Afternoon:
 - .
