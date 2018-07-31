@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[**Mythic Manor - Improvements Mod by Maim Lain**](https://github.com/maim-lain/twosides/blob/master/bugfixes.md)
+[**Mythic Manor - Improvements Mod by Maim Lain**](https://github.com/maim-lain/mythicmanor/blob/master/mod.md)
 
 <br>
 
