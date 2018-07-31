@@ -9,7 +9,7 @@
 <br>
 
 ### House map:
-![](https://i.lensdump.com/i/8yOhsH.jpg?raw=true)
+![](https://i.lensdump.com/i/8yHYLK.jpg?raw=true)
 
 <br>
 
