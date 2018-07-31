@@ -8,21 +8,63 @@
 
 <br>
 
-## Day 1 - monday idk
-#### Morning:
-- fuck
-- bitches
+### New Lark City time schedule:
+Location | Morning | &nbsp;Noon&nbsp; | &nbsp;Night&nbsp;
+--- | :---: | :---: | :---:
+Mall | ✓ | ✓ |  
+Fitness Center | ✓ | ✓ |  
+Sweet Treats | ✓ | ✓ |  
+Library |   | ✓ |  
+Cafe |   | ✓ | ✓
+Velvet Desires |   | ✓ | ✓
+Art Studio |   | ✓ | ✓
+Park | ✓ | ✓ | ✓
+Doctor's Office | ✓ | ✓ | ✓
+Church | ✓ | ✓ | ✓
 
+<br>
+
+### House map:
+Left rooms | Right rooms
+--- | ---:
+Esther | Your room
+Velle | Naira
+Nefari | Fanora
+Pool | Bathroom
+
+
+<br>
+
+## Sunday
 #### Afternoon:
+- Watch for a bit longer
+- Pool
+- 
+
+#### Night:
 - get
 - money
   
 <br>
 <br>
 
-## Day 2 - tues idk
+## Day 2 - mon idk
 #### Morning:
 - .
 
 #### Afternoon:
 - .
+
+
+random pool or bathroom
+
+Esther:  
+day - garden  
+other - room  
+Morning - Her room | Hang out with her.
+
+Fanora:  
+Afternoon - Sweet Treats | Talk to her.
+
+Naira:  
+Afternoon - Cafe | Chat with her.
