@@ -18,11 +18,9 @@
 ## Day 8 - Monday
 #### Morning:
 - Pornland -> Watch the last video
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Naira's room -> Peep -> Continue peeping -> For a little while
 
 #### Afternoon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Velle's room
 
 #### Night:
@@ -34,11 +32,9 @@
 
 ## Day 9 - Tuesday
 #### Morning:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Garden -> Yeah
 
 #### Afternoon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Velle's room -> Install camera
 - Nefari 4 - Afternoon - Library | Talk to the assistant.
 
@@ -54,8 +50,8 @@
 #### Morning:
 - Computer -> Surveillance -> Velle
 - Bathroom -> Anytime
-- Mall -> Clothing store -> Peep in the first two changing rooms
-- Peep into the 3rd changing room
+- Mall -> Mini Mart -> Buy surveillance camera
+- Talk to the security lady -> Clothing store -> Peep into the 3rd changing room
     - Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
 
 #### Afternoon:
