@@ -70,28 +70,34 @@ thing say recommend patch, skip choice etc
 <br>
 
 ### Day 1 - Monday
-- Esther Cam (Unblur) | Click on camera in her room and clean it (top left)
 - Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
-- Repair 1: wall board list -> bathroom -> minimart -> bathroom
+- Repair 1:
+- View the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- Bathroom -> Click the exclaimation mark box in the top right -> Leave
+- New Lark Mall -> Mini Mart -> Buy the plumbing pipe
 - Repair 2: click safe -> repair junk
 - Retrieved from Magic Lake at night when the lake is glowing (RNG-based). Click on the dock and “Look around.”
 
-#### Morning:
-- View the bulletin board between the pool and Nefari's room -> Read task -> Accept
-- Bathroom -> Click the exclaimation mark box in the top right -> Leave
-- Click the map in the top right -> New Lark Mall -> Mini Mart -> Buy the plumbing pipe
+Always:
+- cam
+- rooms
+- 1st and 2nd meetings
 
+
+#### Morning:
+- Fanora's room -> Ask her the three questions
+- Naira's room -> Ask her the three questions -> Examine the shopping bag left of her dresser
 - Esther's room
-- .
 
 #### Afternoon:
-- Fanora 1 - Afternoon - Sweet Treats | Talk to her.
-- Naira 1 - Afternoon - Cafe | Chat with her.
-- Nefari 1 - Afternoon - Library | Talk to her.
-- Velle 1 - Afternoon - Gym>Workout Room | Click on equipment, workout, workout with Velle.
+- Clicking on the map in the top right of the screen lets you travel around the city
+- New Lark Park -> Click on the ice cream sign to go to Sweet Treats
+- Chat with Fanora -> Check each place then give up
+- Thick Creams Cafe -> Chat with Naira -> Stare at her panties
 
 #### Night:
-- 
+- Esther Cam (Unblur) | Click on camera in her room and clean it (top left)
+- money?
 
 #### Late night:
 - 
@@ -106,6 +112,8 @@ thing say recommend patch, skip choice etc
 - Velle 2 - Morning - Her room | Visit her
 
 #### Afternoon:
+- Nefari 1 - Afternoon - Library | Talk to her.
+- Velle 1 - Afternoon - Gym>Workout Room | Click on equipment, workout, workout with Velle.
 - Esther 2 - noon garden
 - Naira 2 - Afternoon - Cafe | Chat with her.
 - Nefari 2 - Afternoon - Library | click bookshelves
