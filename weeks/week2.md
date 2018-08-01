@@ -90,6 +90,8 @@
 <br>
 <br>
 
+<!---
+
 - check CAMS every time period
 - Esther 6 - 
 - Fanora 6 - 
@@ -101,17 +103,4 @@
 
 - Nefari 5 - Night - Pool | Visit the pool.
 
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-### Day ? - Sunday - Week 3
-- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
-- when esther is lvl 13 watch p in the morning
-- Magic Lake -> Dock -> Look around (at night)
+--->
