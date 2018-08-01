@@ -117,9 +117,11 @@
 ### Day 4 - Thursday
 #### Morning:
 - Safe -> Inspect junk -> Fix
+- Mall -> Talk to security lady -> Clothing store -> Peep in the first two changing rooms
 - Fitness Center -> Workout
 
 #### Afternoon:
+- Mall -> Clothing store -> Peep in the first two changing rooms
 - Thick Creams Cafe -> Chat with Naira
 - Library -> Click the bookshelves
 
@@ -135,7 +137,7 @@
 
 ### Day 5 - Friday
 #### Morning:
-- Mall -> Talk to security lady -> Clothing store -> Peep in the first two changing rooms
+- Mall -> Clothing store -> Peep in the first two changing rooms
 - Nefari's room -> Yeah
 
 #### Afternoon:
