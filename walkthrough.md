@@ -86,6 +86,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 <br>
 <br>
+<br>
 
 ### Day 1 - Monday
 #### Morning:
@@ -128,6 +129,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 <br>
 <br>
+<br>
 
 ### Day 2 - Tuesday
 #### Morning:
@@ -150,6 +152,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 <br>
 <br>
+<br>
 
 ### Day 3 - Wednesday
 #### Morning:
@@ -170,6 +173,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 <br>
 <br>
+<br>
 
 ### Day 4 - Thursday
 #### Morning:
@@ -184,6 +188,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 #### Late night:
 - 
 
+<br>
 <br>
 <br>
 
