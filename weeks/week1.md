@@ -159,7 +159,9 @@
 #### Morning:
 - Mall -> Clothing store -> Peep in the first two changing rooms
 - Manor -> Bathroom -> You can either peep or be direct, choose whichever you prefer
-    - "Peep -> Keep peeping" or "Enter -> Why are you so exposed?"
+    - Peep -> Keep peeping
+    - or
+    - Enter -> Why are you so exposed?
 
 #### Afternoon:
 - Mall -> Clothing store -> Peep in the first two changing rooms
