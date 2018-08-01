@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!nPYCmAZK!4WyYFacH1O78UMzmwpc6lAAbGuHfSpkAPnAibcRF5_k)  
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!TGZhUYjI!2NEowUb5Co_W4aVw8v5fiq0YjES2GwejpzQSBv3TtLM)  
 
 <br>
 
@@ -19,6 +19,7 @@
 - Changed the rollback (rewind) limit from 8 to 50! Limiting the max number of messages you could rewind was annoying and 8 was way too low.
 - When you click "Skip Time Forward" the game will no longer ask if you're sure you want to skip. Needing to click "Yes" every single time you use it also got very annoying very fast. You can just rollback if you accidentally click it.
 - When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time was, you guessed it, annoying. You can just rollback if you accidentally click it.
+- The 2B wallpaper on the computer was honestly so bad that I just had to change it. Making 2B look ugly should be a sin. [Comparison](https://i.lensdump.com/i/8yl1ba.gif)
 - If you know of any more small or easy changes/fixes for Mythic Manor, feel free to let me know. Just message @ me in [the thread.](https://f95zone.com/threads/mythic-manor-v0-5-1-jikei.9201/)
 
 <br>
