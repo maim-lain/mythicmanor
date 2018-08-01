@@ -51,21 +51,13 @@ thing say recommend patch, skip choice etc
 <br>
 
 - Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
-- Repair 2: click safe -> repair junk
-- Retrieved from Magic Lake at night when the lake is glowing (RNG-based). Click on the dock and “Look around.”
+- Magic Lake -> Dock -> Look around (at night)
 
-Always:
-- cam
-- rooms
-- 1st and 2nd meetings
+Any directions that start with "Optional:" means that  
+Any choices that give you a better scene or more lewd content will never be marked optional. I only mark something as optional if it isn't related to scenes or lewd content.  
+If there is dialog that gives you a better scene or more lewd images, I will always choose those and they won't be optional.  
+A lot of the dialog choices in the game don't actually affect anything, but there are still choices that give more information, or a set of choices that will make a girl more happy, or a set of choices that will make a girl embarrassed.  
 
-Any directions that start with "Optional:" means that
-
-Any choices that give you a better scene or more lewd content will never be marked optional. I only mark something as optional if it isn't related to scenes or lewd content.
-
-If there is dialog that gives you a better scene or more lewd images, I will always choose those and they won't be optional. 
-
-A lot of the dialog choices in the game don't actually affect anything, but there are still choices that give more information, or a set of choices that will make a girl more happy, or a set of choices that will make a girl embarrassed.
 
 
 ## Week 1
@@ -82,7 +74,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Computer
     - Optional: Wallpapers -> Change wallpaper
     - Surveillance -> Cam 1 -> Install -> Cam (Esther)
-    - Internet -> Pornland -> Choose the 1st video and click 'Finish' when you want to exit
+    - Internet -> Pornland -> Watch the 1st video and click 'Finish' when you want to exit
 
 <br>
 <br>
@@ -118,14 +110,12 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
         - Thanks for the free..
 
 #### Night:
-- Magic Lake -> Dock -> Look around
 - Esther's room -> Clean the camera (the very small ball in the top left of the screen)
-- Computer
-    - Internet -> GameHub
+- Your computer -> Internet -> GameHub
 
 #### Late night:
 - Surveillance -> Esther
-- Pornland -> Choose the 2nd video
+- Pornland -> Watch the 2nd video
 
 <br>
 <br>
@@ -133,22 +123,28 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 ### Day 2 - Tuesday
 #### Morning:
-- Fanora 2 - Morning - Her room | Visit her.
 - New Lark Mall -> Mini Mart -> Buy the plumbing pipe
-- Bathroom
+- Bathroom -> Click the exclaimation mark box in the top right
+- Fanora's room
 
 #### Afternoon:
-- Nefari 1 - Afternoon - Library | Talk to her.
-- Velle 1 - Afternoon - Gym>Workout Room | Click on equipment, workout, workout with Velle.
-- Esther 2 - noon garden
-- Naira 2 - Afternoon - Cafe | Chat with her.
-- Nefari 2 - Afternoon - Library | click bookshelves
+- Library -> Chat with Nefari
+    - Optional: Best Responses
+        - Reading is one of my hobbies
+        - Sure
+        - If you need more material..
+- Fitness Center -> Workout
+    - Yeah
+    - Ask for help
+    - Go inside
+    - Just peep
 
 #### Night:
-- 
+- Computer -> GameHub
 
 #### Late night:
-- 
+- Surveillance -> Esther
+- Pornland -> Watch the 3rd video
 
 <br>
 <br>
@@ -157,9 +153,11 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 ### Day 3 - Wednesday
 #### Morning:
 - Velle 2 - Morning - Her room | Visit her
-- Nefari 3 - Morning - Her room | Visit her.
 
 #### Afternoon:
+- Esther 2 - noon garden
+- Naira 2 - Afternoon - Cafe | Chat with her.
+- Nefari 2 - Afternoon - Library | click bookshelves
 - Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon at Garden | Give her the item she asked for.
 - Fanora 3 - Afternoon - Sweet Treats | Talk to her.
 - Velle 3 - Afternoon - Her room | Visit her.
@@ -177,7 +175,8 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 ### Day 4 - Thursday
 #### Morning:
-- 
+- Nefari 3 - Morning - Her room | Visit her.
+- Repair 2: click safe -> repair junk
 
 #### Afternoon:
 - Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
