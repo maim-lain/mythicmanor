@@ -71,7 +71,6 @@
 ## Day 2 - Tuesday
 #### Morning:
 - Mall -> Mini Mart -> Buy the plumbing pipe
-- Talk to security lady -> Clothing store -> Peep in the first two changing rooms
 - Bathroom -> Click the exclaimation mark box in the top right
 - Fanora's room
 
@@ -140,7 +139,6 @@
 #### Afternoon:
 - Garden -> Chat with Esther
 - Mall -> Mini Mart -> Buy clothesline
-- Clothing store -> Peep in the first two changing rooms
 - Garden -> Chat with Esther -> Keep the change
 
 #### Night:
@@ -161,7 +159,6 @@
     - Enter -> Why are you so exposed?
 
 #### Afternoon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Park -> Chat with Fanora -> Do it -> Well okay -> School girl outfit
 
 #### Night:
