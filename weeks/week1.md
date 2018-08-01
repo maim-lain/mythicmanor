@@ -8,8 +8,7 @@
 <br>
 <br>
 
-## Week 1
-### Day 0 - Sunday
+## Day 0 - Sunday
 #### Afternoon:
 - Watch for a bit longer
 - Go to the pool
@@ -28,7 +27,7 @@
 <br>
 <br>
 
-### Day 1 - Monday
+## Day 1 - Monday
 #### Morning:
 - Fanora's room -> Ask her the three questions
 - Naira's room -> Ask her the three questions -> Examine the shopping bag left of her dresser
@@ -69,7 +68,7 @@
 <br>
 <br>
 
-### Day 2 - Tuesday
+## Day 2 - Tuesday
 #### Morning:
 - New Lark Mall -> Mini Mart -> Buy the plumbing pipe
 - Bathroom -> Click the exclaimation mark box in the top right
@@ -97,7 +96,7 @@
 <br>
 <br>
 
-### Day 3 - Wednesday
+## Day 3 - Wednesday
 #### Morning:
 - Velle's room -> What kind of toy? -> How does that thing work?
 
@@ -114,7 +113,7 @@
 <br>
 <br>
 
-### Day 4 - Thursday
+## Day 4 - Thursday
 #### Morning:
 - Safe -> Inspect junk -> Fix
 - Mall -> Talk to security lady -> Clothing store -> Peep in the first two changing rooms
@@ -135,7 +134,7 @@
 <br>
 <br>
 
-### Day 5 - Friday
+## Day 5 - Friday
 #### Morning:
 - Mall -> Clothing store -> Peep in the first two changing rooms
 - Nefari's room -> Yeah
@@ -156,7 +155,7 @@
 <br>
 <br>
 
-### Day 6 - Saturday
+## Day 6 - Saturday
 #### Morning:
 - Mall -> Clothing store -> Peep in the first two changing rooms
 - Manor -> Bathroom -> You can either peep or be direct, choose whichever you prefer
