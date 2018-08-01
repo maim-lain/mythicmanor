@@ -33,13 +33,14 @@
 
 ## Day 9 - Tuesday
 #### Morning:
-- 
+- Garden -> Yeah
 
 #### Afternoon:
-- 
+- Velle's room -> Install camera
+- Nefari 4 - Afternoon - Library | Talk to the assistant.
 
 #### Night:
-- 
+- Computer -> Surveillance -> Cam 
 
 #### Late night:
 - 
@@ -70,22 +71,20 @@ morn or noon:
 - Peep into the 3rd changing room
     - Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
 
-- Esther 5 - 
-- Fanora 5 - 
-- Naira 5 - 
+- check velle cams every time period
 
 
-- Velle 4 - Morning - Garden | Visit the garden.
+- Fanora 5 - Morning - Bathroom | Enter bathroom.
 
-- can now enter velles room when she's not there.
-- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device.
-    - check cams every time period
-- Nefari 4 - Afternoon - Library | Talk to the assistant.
+- Esther 5 - Afternoon - Garden | Visit the garden.
+- Naira 5 - Afternoon - Cafe | Chat with her.
 - Naira Cam | Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
     - now able to enter her room at anytime in the noon by asking esther
     - check cams every time period
+- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
 
-
+- Nefari 5 - Night - Pool | Visit the pool.
+- Velle 5 - Night - Pool | Visit the pool. Come, cow, wax, yes
 
 
 
@@ -98,6 +97,5 @@ morn or noon:
 <br>
 
 ### Day ? - Sunday - Week 3
-- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
 - Magic Lake -> Dock -> Look around (at night)
 - when esther is lvl 13 watch p in the morning
