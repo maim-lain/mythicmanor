@@ -70,7 +70,8 @@
 
 ## Day 2 - Tuesday
 #### Morning:
-- New Lark Mall -> Mini Mart -> Buy the plumbing pipe
+- Mall -> Mini Mart -> Buy the plumbing pipe
+- Talk to security lady -> Clothing store -> Peep in the first two changing rooms
 - Bathroom -> Click the exclaimation mark box in the top right
 - Fanora's room
 
@@ -116,11 +117,9 @@
 ## Day 4 - Thursday
 #### Morning:
 - Safe -> Inspect junk -> Fix
-- Mall -> Talk to security lady -> Clothing store -> Peep in the first two changing rooms
 - Fitness Center -> Workout
 
 #### Afternoon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Thick Creams Cafe -> Chat with Naira
 - Library -> Click the bookshelves
 
@@ -136,7 +135,6 @@
 
 ## Day 5 - Friday
 #### Morning:
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Nefari's room -> Yeah
 
 #### Afternoon:
@@ -157,8 +155,7 @@
 
 ## Day 6 - Saturday
 #### Morning:
-- Mall -> Clothing store -> Peep in the first two changing rooms
-- Manor -> Bathroom -> You can either peep or be direct, choose whichever you prefer
+- Bathroom -> You can either peep or be direct, choose whichever you prefer
     - Peep -> Keep peeping
     - or
     - Enter -> Why are you so exposed?
