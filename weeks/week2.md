@@ -16,14 +16,10 @@
 <br>
 
 ### Day 8 - Monday
-- mall cop thing 3rd change room. Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
-- Esther Special event | In morning, watch porn (need: watched porn more than 5 times, Esther’s level is at least 4, day is at least 8.)
-- Naira special event | Cam - Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon
-while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
-    - now able to enter her room at anytime in the noon by asking esther
 
 #### Morning:
-- 
+- mall cop thing 3rd change room. Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
+- Esther Special event | In morning, watch porn (need: watched porn more than 5 times, Esther’s level is at least 4, day is at least 8.)
 
 #### Afternoon:
 - 
@@ -55,8 +51,6 @@ while you have a camera in your inventory. Then visit Esther in the garden and a
 <br>
 <br>
 
-
-- Mall -> Clothing store -> Peep in the first two changing rooms
 - Velle 4 - Morning - Garden | Visit the garden.
 
 - Velle 3 - Afternoon - Her room | Visit her.
@@ -64,6 +58,8 @@ while you have a camera in your inventory. Then visit Esther in the garden and a
 - Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
 - Naira 4 - Morning - Her room | Visit her.
 - Nefari 4 - Afternoon - Library | Talk to the assistant.
+- Naira Cam | Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
+    - now able to enter her room at anytime in the noon by asking esther
 
 Fanora 4 - Night - Pool | Enter pool.
 
