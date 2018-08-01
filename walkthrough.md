@@ -24,9 +24,12 @@
 [Week 3](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week3.md)  
 
 <br>
+
+---
+
 <br>
 
-## House map:
+### House map:
 ![](https://i.lensdump.com/i/8yHYLK.jpg?raw=true)
 
 <br>
