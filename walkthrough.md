@@ -168,20 +168,67 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 ### Day 4 - Thursday
 #### Morning:
+- Safe -> Inspect junk -> Fix
+- Fitness Center -> Workout
+
+#### Afternoon:
+- Thick Creams Cafe -> Chat with Naira
+- Library -> Click the bookshelves
+
+#### Night:
+- Computer -> GameHub
+
+#### Late night:
+- Pornland -> Watch the 4th video
+
+<br>
+<br>
+<br>
+
+### Day 5 - Friday
+#### Morning:
+- Mall -> Talk to security lady -> Clothing store -> Peep in the first two changing rooms
+- Nefari's room -> Yeah
+
+#### Afternoon:
+- Mall -> Clothing store -> Peep in the first two changing rooms
+
+#### Night:
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+<br>
+
+### Day 6 - Saturday
+#### Morning:
 - 
 
 #### Afternoon:
-- Naira 2 - Afternoon - Cafe | Chat with her.
-- Nefari 2 - Afternoon - Library | click bookshelves
-- Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon at Garden | Give her the item she asked for.
-- Fanora 3 - Afternoon - Sweet Treats | Talk to her.
-- Velle 3 - Afternoon - Her room | Visit her.
-    - can now enter her room when she's not there.
-- Repair 2: click safe -> repair junk
-- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
+- 
 
 #### Night:
-- Naira 3 - Night - Her room | Visit her.
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+<br>
+
+### Day  - day
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
 
 #### Late night:
 - 
@@ -191,22 +238,20 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 <br>
 
 mornin
-- Nefari 3 - Morning - Her room | Visit her.
-
-
-### Day  - day
-#### Morning:
-- 
-#### Afternoon:
-- 
-#### Night:
-- 
-#### Late night:
-- 
-
-day 5:
 - Cop event - Triggered when you peep on the “Out of order” stall in Full Moon clothing store when the following requirements have been met: Day time is morning, day is at least 8, you viewed people in the stalls at least 7 times, and you’ve spoken to the Security Lady before in the mall’s entrance.
     - mall: visit twice on days 5, 6, 7, the morning on the 8th
+
+Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
+
+noon
+- Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon at Garden | Give her the item she asked for.
+- Fanora 3 - Afternoon - Sweet Treats | Talk to her.
+- Velle 3 - Afternoon - Her room | Visit her.
+    - can now enter her room when she's not there.
+- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
+
+night
+- Naira 3 - Night - Her room | Visit her.
 
 <br>
 <br>
