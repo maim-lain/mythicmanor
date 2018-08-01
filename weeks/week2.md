@@ -55,11 +55,13 @@
 
 - Velle 3 - Afternoon - Her room | Visit her.
     - can now enter her room when she's not there.
-- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
+- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device.
+    - check cams every time period
 - Naira 4 - Morning - Her room | Visit her.
 - Nefari 4 - Afternoon - Library | Talk to the assistant.
 - Naira Cam | Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
     - now able to enter her room at anytime in the noon by asking esther
+    - check cams every time period
 
 Fanora 4 - Night - Pool | Enter pool.
 
