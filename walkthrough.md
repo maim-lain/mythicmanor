@@ -174,7 +174,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Computer -> GameHub
 
 #### Late night:
-- Pornland -> Watch the 4th video
+- Pornland -> Watch the 5th video
 
 <br>
 <br>
@@ -195,7 +195,7 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Naira's room
 
 #### Late night:
-- Pornland -> Watch the 5th video
+- Pornland -> Watch the 6th video
 
 <br>
 <br>
@@ -204,16 +204,18 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 ### Day 6 - Saturday
 #### Morning:
 - Mall -> Clothing store -> Peep in the first two changing rooms
-- Morning - Bathroom | Peep or enter on her.
+- Manor -> Bathroom -> You can either peep or be direct, choose whichever you prefer
+    - "Peep -> Keep peeping" or "Enter -> Why are you so exposed?"
 
 #### Afternoon:
 - Mall -> Clothing store -> Peep in the first two changing rooms
+- Park -> Chat with Fanora -> Do it -> Well okay -> School girl outfit
 
 #### Night:
-- 
+- Computer -> GameHub
 
 #### Late night:
-- 
+- Pornland -> Watch the 7th video
 
 <br>
 <br>
@@ -237,12 +239,15 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 <br>
 
 - Mall -> Clothing store -> Peep in the first two changing rooms
+- Velle 4 - Morning - Garden | Visit the garden.
 
-
-- Fanora 3 - Afternoon - Sweet Treats | Talk to her.
 - Velle 3 - Afternoon - Her room | Visit her.
     - can now enter her room when she's not there.
 - Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
+- Naira 4 - Morning - Her room | Visit her.
+- Nefari 4 - Afternoon - Library | Talk to the assistant.
+
+Fanora 4 - Night - Pool | Enter pool.
 
 <br>
 <br>
