@@ -72,8 +72,6 @@ thing say recommend patch, skip choice etc
 ### Day 1 - Monday
 - Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
 - Repair 1:
-- View the bulletin board between the pool and Nefari's room -> Read task -> Accept
-- Bathroom -> Click the exclaimation mark box in the top right -> Leave
 - New Lark Mall -> Mini Mart -> Buy the plumbing pipe
 - Repair 2: click safe -> repair junk
 - Retrieved from Magic Lake at night when the lake is glowing (RNG-based). Click on the dock and “Look around.”
@@ -97,16 +95,19 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Esther's room
 
 #### Afternoon:
+- View the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- Bathroom -> Click the exclaimation mark box in the top right
 - Clicking on the map in the top right of the screen lets you travel around the city
 - New Lark Park -> Click on the ice cream sign to go to Sweet Treats
-- Chat with Fanora
-    - Just wanted to visit
-    - Should I be..
-    - Check the first two places
-    - Check near the tree -> Cute bra
-    - Check near the bench -> That's a condom
-    - Give up
-- Thick Creams Cafe -> Chat with Naira (the choices don't change anything, but I will occasionally mark optional choices that make girls react in different ways, etc)
+- Chat with Fanora (the choices don't change anything, but I will occasionally mark optional choices that make girls react in different ways, etc)
+    - Optional: Best responses
+        - Just wanted to visit
+        - Should I be..
+        - Check the first two places
+        - Check near the tree -> Cute bra
+        - Check near the bench -> That's a condom
+        - Give up
+- Thick Creams Cafe -> Chat with Naira
     - Optional: Make her happy
         - No big deal
         - Help her up
