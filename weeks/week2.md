@@ -22,6 +22,7 @@
 - Naira's room -> Peep -> Continue peeping -> For a little while
 
 #### Afternoon:
+- Mall -> Clothing store -> Peep in the first two changing rooms
 - Velle's room
 
 #### Night:
@@ -33,9 +34,11 @@
 
 ## Day 9 - Tuesday
 #### Morning:
+- Mall -> Clothing store -> Peep in the first two changing rooms
 - Garden -> Yeah
 
 #### Afternoon:
+- Mall -> Clothing store -> Peep in the first two changing rooms
 - Velle's room -> Install camera
 - Nefari 4 - Afternoon - Library | Talk to the assistant.
 
