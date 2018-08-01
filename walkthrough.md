@@ -83,6 +83,13 @@ Always:
 - rooms
 - 1st and 2nd meetings
 
+Any directions that start with "Optional:" means that
+
+Any choices that give you a better scene or more lewd content will never be marked optional. I only mark something as optional if it isn't related to scenes or lewd content.
+
+If there is dialog that gives you a better scene or more lewd images, I will always choose those and they won't be optional. 
+
+A lot of the dialog choices in the game don't actually affect anything, but there are still choices that give more information, or a set of choices that will make a girl more happy, or a set of choices that will make a girl embarrassed.
 
 #### Morning:
 - Fanora's room -> Ask her the three questions
@@ -92,10 +99,25 @@ Always:
 #### Afternoon:
 - Clicking on the map in the top right of the screen lets you travel around the city
 - New Lark Park -> Click on the ice cream sign to go to Sweet Treats
-- Chat with Fanora -> Check each place then give up
-- Thick Creams Cafe -> Chat with Naira -> Stare at her panties
+- Chat with Fanora
+    - Just wanted to visit
+    - Should I be..
+    - Check the first two places
+    - Check near the tree -> Cute bra
+    - Check near the bench -> That's a condom
+    - Give up
+- Thick Creams Cafe -> Chat with Naira (the choices don't change anything, but I will occasionally mark optional choices that make girls react in different ways, etc)
+    - Optional: Make her happy
+        - No big deal
+        - Help her up
+        - Don't worry about it
+    - Optional: Make her embarrassed
+        - Are you always that clumsy?
+        - Stare at her panties
+        - Thanks for the free..
 
 #### Night:
+- Magic Lake -> Dock -> Look around
 - Esther Cam (Unblur) | Click on camera in her room and clean it (top left)
 - money?
 
