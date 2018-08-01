@@ -143,7 +143,6 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Computer -> GameHub
 
 #### Late night:
-- Surveillance -> Esther
 - Pornland -> Watch the 3rd video
 
 <br>
@@ -152,16 +151,34 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 ### Day 3 - Wednesday
 #### Morning:
-- Velle 2 - Morning - Her room | Visit her
+- Velle's room -> What kind of toy? -> How does that thing work?
 
 #### Afternoon:
-- Esther 2 - noon garden
+- Go to the garden/front yard
+
+#### Night:
+- Computer -> GameHub
+
+#### Late night:
+- Pornland -> Watch the 4th video
+
+<br>
+<br>
+<br>
+
+### Day 4 - Thursday
+#### Morning:
+- 
+
+#### Afternoon:
 - Naira 2 - Afternoon - Cafe | Chat with her.
 - Nefari 2 - Afternoon - Library | click bookshelves
 - Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon at Garden | Give her the item she asked for.
 - Fanora 3 - Afternoon - Sweet Treats | Talk to her.
 - Velle 3 - Afternoon - Her room | Visit her.
     - can now enter her room when she's not there.
+- Repair 2: click safe -> repair junk
+- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
 
 #### Night:
 - Naira 3 - Night - Her room | Visit her.
@@ -173,23 +190,9 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 <br>
 <br>
 
-### Day 4 - Thursday
-#### Morning:
+mornin
 - Nefari 3 - Morning - Her room | Visit her.
-- Repair 2: click safe -> repair junk
 
-#### Afternoon:
-- Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
-
-#### Night:
-- 
-
-#### Late night:
-- 
-
-<br>
-<br>
-<br>
 
 ### Day  - day
 #### Morning:
