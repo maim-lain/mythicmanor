@@ -40,7 +40,12 @@ Park | ✓ | ✓ | ✓
 Doctor's Office | ✓ | ✓ | ✓
 Church | ✓ | ✓ | ✓
 
-thing say recommend patch, skip choice etc
+thing say recommend patch, skip choice, get all scenes, etc
+
+Any directions that start with "Optional:" means that  
+Any choices that give you a better scene or more lewd content will never be marked optional. I only mark something as optional if it isn't related to scenes or lewd content.  
+If there is dialog that gives you a better scene or more lewd images, I will always choose those and they won't be optional.  
+A lot of the dialog choices in the game don't actually affect anything, but there are still choices that give more information, or a set of choices that will make a girl more happy, or a set of choices that will make a girl embarrassed.  
 
 <br>
 <br>
@@ -49,16 +54,6 @@ thing say recommend patch, skip choice etc
 
 <br>
 <br>
-
-- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
-- Magic Lake -> Dock -> Look around (at night)
-
-Any directions that start with "Optional:" means that  
-Any choices that give you a better scene or more lewd content will never be marked optional. I only mark something as optional if it isn't related to scenes or lewd content.  
-If there is dialog that gives you a better scene or more lewd images, I will always choose those and they won't be optional.  
-A lot of the dialog choices in the game don't actually affect anything, but there are still choices that give more information, or a set of choices that will make a girl more happy, or a set of choices that will make a girl embarrassed.  
-
-
 
 ## Week 1
 ### Day 0 - Sunday
@@ -191,13 +186,16 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 - Nefari's room -> Yeah
 
 #### Afternoon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
+- Garden -> Chat with Esther
+- Mall -> Mini Mart -> Buy clothesline
+- Clothing store -> Peep in the first two changing rooms
+- Garden -> Chat with Esther -> Keep the change
 
 #### Night:
-- 
+- Naira's room
 
 #### Late night:
-- 
+- Pornland -> Watch the 5th video
 
 <br>
 <br>
@@ -205,10 +203,11 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 
 ### Day 6 - Saturday
 #### Morning:
-- 
+- Mall -> Clothing store -> Peep in the first two changing rooms
+- Morning - Bathroom | Peep or enter on her.
 
 #### Afternoon:
-- 
+- Mall -> Clothing store -> Peep in the first two changing rooms
 
 #### Night:
 - 
@@ -237,24 +236,13 @@ A lot of the dialog choices in the game don't actually affect anything, but ther
 <br>
 <br>
 
-mornin
-- Cop event - Triggered when you peep on the “Out of order” stall in Full Moon clothing store when the following requirements have been met: Day time is morning, day is at least 8, you viewed people in the stalls at least 7 times, and you’ve spoken to the Security Lady before in the mall’s entrance.
-    - mall: visit twice on days 5, 6, 7, the morning on the 8th
+- Mall -> Clothing store -> Peep in the first two changing rooms
 
-Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
 
-noon
-- Esther 3 Afternoon - Garden | Chat with her. -> Morning/Afternoon - Mall>Mini Mart | Buy the item she asked for. -> Afternoon at Garden | Give her the item she asked for.
 - Fanora 3 - Afternoon - Sweet Treats | Talk to her.
 - Velle 3 - Afternoon - Her room | Visit her.
     - can now enter her room when she's not there.
 - Velle Cam | Velle’s level is at least 3. Visit Velle’s room when she’s not in there, the door will be unlocked. Install camera behind the red cross bondage device. Enter her room @ level 3
-
-night
-- Naira 3 - Night - Her room | Visit her.
-
-<br>
-<br>
 
 <br>
 <br>
@@ -264,12 +252,16 @@ night
 ### Day 7 - Sunday
 
 ### Day 8 - Monday
+- mall cop thing 3rd change room. Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
 - Esther Special event | In morning, watch porn (need: watched porn more than 5 times, Esther’s level is at least 4, day is at least 8.)
 - Naira special event | Cam - Naira’s level is at least 5, repair skill at least 1, visit her room in the afternoon
 while you have a camera in your inventory. Then visit Esther in the garden and ask to get into Naira’s room (to fix PC). Install the camera in the snowflake painting.
     - now able to enter her room at anytime in the noon by asking esther
 
 ### Day ? - Sunday - Week 3
+
+- Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
+- Magic Lake -> Dock -> Look around (at night)
 
 might need to split up the weeks, have a link to each week and put the week in the title name at the top.
 
