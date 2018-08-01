@@ -40,7 +40,26 @@
 - Nefari 4 - Afternoon - Library | Talk to the assistant.
 
 #### Night:
-- Computer -> Surveillance -> Cam 
+- Computer -> Surveillance -> Velle
+- GameHub
+
+<br>
+<br>
+<br>
+
+## Day 10 - Wednesday
+#### Morning:
+- Computer -> Surveillance -> Velle
+- Bathroom -> Anytime
+- Mall -> Clothing store -> Peep in the first two changing rooms
+- Peep into the 3rd changing room
+    - Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
 
 #### Late night:
 - 
@@ -66,15 +85,10 @@
 <br>
 <br>
 
-morn or noon:
-- Mall -> Clothing store -> Peep in the first two changing rooms
-- Peep into the 3rd changing room
-    - Oh no, we've been caught. ( ͡° ͜ʖ ͡°)
-
 - check velle cams every time period
 
 
-- Fanora 5 - Morning - Bathroom | Enter bathroom.
+- Fanora 6 - 
 
 - Esther 5 - Afternoon - Garden | Visit the garden.
 - Naira 5 - Afternoon - Cafe | Chat with her.
