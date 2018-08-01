@@ -64,7 +64,7 @@ thing say recommend patch, skip choice etc
 - Computer
     - Optional: Wallpapers -> Change wallpaper
     - Surveillance -> Cam 1 -> Install -> Cam (Esther)
-    - Internet -> Pornland -> Choose 'Finish' to exit
+    - Internet -> Pornland -> Choose the 1st video and click 'Finish' when you want to exit
 
 <br>
 <br>
@@ -74,15 +74,15 @@ thing say recommend patch, skip choice etc
 - Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
 - Repair 1: wall board list -> bathroom -> minimart -> bathroom
 - Repair 2: click safe -> repair junk
-- Cop event - Triggered when you peep on the “Out of order” stall in Full Moon clothing store when the following requirements have been met: Day time is morning, day is at least 8, you viewed people in the stalls at least 7 times, and you’ve spoken to the Security Lady before in the mall’s entrance.
 - Retrieved from Magic Lake at night when the lake is glowing (RNG-based). Click on the dock and “Look around.”
 
-
 #### Morning:
-- Esther 1 - room
-- .
 - View the bulletin board between the pool and Nefari's room -> Read task -> Accept
+- Bathroom -> Click the exclaimation mark box in the top right -> Leave
+- Click the map in the top right -> New Lark Mall -> Mini Mart -> Buy the plumbing pipe
+
 - Esther's room
+- .
 
 #### Afternoon:
 - Fanora 1 - Afternoon - Sweet Treats | Talk to her.
@@ -163,6 +163,10 @@ thing say recommend patch, skip choice etc
 - 
 #### Late night:
 - 
+
+day 5:
+- Cop event - Triggered when you peep on the “Out of order” stall in Full Moon clothing store when the following requirements have been met: Day time is morning, day is at least 8, you viewed people in the stalls at least 7 times, and you’ve spoken to the Security Lady before in the mall’s entrance.
+    - mall: visit twice on days 5, 6, 7, the morning on the 8th
 
 <br>
 <br>
