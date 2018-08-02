@@ -156,6 +156,7 @@
     - Peep -> Keep peeping
     - or
     - Enter -> Why are you so exposed?
+- Naira's room -> Peep -> Continue peeping -> For a little while
 
 #### Afternoon:
 - Park -> Chat with Fanora -> Do it -> Well okay -> School girl outfit
