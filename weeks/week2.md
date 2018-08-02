@@ -64,7 +64,67 @@
 
 #### Night:
 - Computer -> Surveillance -> Naira
-- Pool -> asfsadf Come, cow, wax, yes
+- Pool -> Stay out
+    - Option 1: Join her and make her cum by playing with her breasts
+        - Go in -> Cum -> Cowgirl -> Wax -> Yes
+    - Option 2: If you refuse she freezes your body and forces you to watch as she fingers herself
+        - Stay out -> That was actually pretty hot
+
+#### Late night:
+- Computer -> Surveillance -> Naira -> Velle
+
+<br>
+<br>
+<br>
+
+## Day 11 - Thursday
+#### Morning:
+- Esther's room -> Check closet -> Check right drawer -> Dig around
+
+#### Afternoon:
+- Cafe -> Chat with Naira
+- Fitness Center -> Workout with Velle
+    - Option 1: She gives you a blowjob
+        - Take it out
+    - Option 2: If you refuse she takes control of your body and forces you to masturbate on her
+        - Don't take it out
+
+#### Night:
+- Pool -> I'm not here to swim
+
+#### Late night:
+- Computer -> Surveillance -> Naira -> Velle
+
+<br>
+<br>
+<br>
+
+## Day 12 - Friday
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
+
+#### Late night:
+- 
+
+<br>
+<br>
+<br>
+
+## Day 13 - Saturday
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
 
 #### Late night:
 - 
@@ -93,14 +153,17 @@
 <!---
 
 - check CAMS every time period
-- Esther 6 - 
-- Fanora 6 - 
-- Velle 6
 
-
+- Nefari 6 - Morning - Her room | Visit her. Morning/Afternoon - Mall>Mini Mart | Buy a suitable item. Morning/Night - Her room | Chat with her, give the item to her.
+- Esther 7 - Morning - Garden | Chat with her.
+- Velle 7 - Morning - Her room | Visit her. Afternoon/Night - Velvet Desires | Ask for Velle.
+-
 - check Naira's diary after event
-- Naira 5 - Afternoon - Cafe | Chat with her.
+- Naira 6 - Morning/Afternoon - Mall>Mini Mart | Ask for the item and buy it. Afternoon - Cafe | Chat with her and give the item you bought to her.
+- Fanora 7 - Afternoon - Sweet Treats | Talk to her. Your room>PC | Buy the items on the internet. (((Afternoon - Sweet Treats or Night - Her room | Talk to her.)))
+- Nefari 7 - Afternoon - Library | Talk to her.
 
-- Nefari 5 - Night - Pool | Visit the pool.
+- Fanora 6 - Night - Her room | Visit her.
+- Naira 7 - Night - Her room | Visit her.
 
 --->
