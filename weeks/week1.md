@@ -119,7 +119,7 @@
 - Fitness Center -> Workout
 
 #### Afternoon:
-- Thick Creams Cafe -> Chat with Naira
+- Cafe -> Chat with Naira
 - Library -> Click the bookshelves
 
 #### Night:
