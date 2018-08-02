@@ -19,9 +19,9 @@
 <br>
 
 **Walkthrough:**  
-[Week 1](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week1.md)  
-[Week 2](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week2.md)  
-[Week 3 (15% complete)](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week3.md)  
+[&nbsp;&nbsp;&nbsp;&nbsp;Week 1](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week1.md)  
+[&nbsp;&nbsp;&nbsp;&nbsp;Week 2](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week2.md)  
+[&nbsp;&nbsp;&nbsp;&nbsp;Week 3 (15% complete)](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week3.md)  
 
 <br>
 
