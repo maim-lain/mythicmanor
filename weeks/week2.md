@@ -101,7 +101,13 @@
 
 ## Day 12 - Friday
 #### Morning:
-- 
+- Nefari's room -> Chat with Nefari
+- Mall -> Mini Mart -> Ask about sunscreen -> Buy cooking book and sunscreen
+- Nefari's room -> Give cooking book
+- Garden -> Chat with Esther
+    - Expose her ass
+    - Feel her tits
+    - Call for help -> Get Velle
 
 #### Afternoon:
 - 
@@ -153,11 +159,10 @@
 <!---
 
 - check CAMS every time period
+- Esther 8 - 
 
-- Nefari 6 - Morning - Her room | Visit her. Morning/Afternoon - Mall>Mini Mart | Buy a suitable item. Morning/Night - Her room | Chat with her, give the item to her.
-- Esther 7 - Morning - Garden | Chat with her.
 - Velle 7 - Morning - Her room | Visit her. Afternoon/Night - Velvet Desires | Ask for Velle.
--
+
 - check Naira's diary after event
 - Naira 6 - Morning/Afternoon - Mall>Mini Mart | Ask for the item and buy it. Afternoon - Cafe | Chat with her and give the item you bought to her.
 - Fanora 7 - Afternoon - Sweet Treats | Talk to her. Your room>PC | Buy the items on the internet. (((Afternoon - Sweet Treats or Night - Her room | Talk to her.)))
