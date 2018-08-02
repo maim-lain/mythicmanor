@@ -18,7 +18,8 @@
 ## Day 8 - Monday
 #### Morning:
 - Pornland -> Watch the last video
-- Naira's room -> Peep -> Continue peeping -> For a little while
+- Fitness Center -> Workout
+- Computer -> GameHub
 
 #### Afternoon:
 - Velle's room
@@ -102,7 +103,7 @@
 ## Day 12 - Friday
 #### Morning:
 - Nefari's room -> Chat with Nefari
-- Mall -> Mini Mart -> Ask about sunscreen -> Buy cooking book and sunscreen
+- Mall -> Mini Mart -> Ask about sunscreen -> Buy sunscreen and cooking book
 - Nefari's room -> Give cooking book
 - Garden -> Chat with Esther
     - Expose her ass
@@ -125,67 +126,12 @@
 ## Day 13 - Saturday
 #### Morning:
 - Velle's room
-- Computer -> GameHub
 
 #### Afternoon:
-- 
+- Park -> Chat with Fanora
+- Computer -> Search for fair tickets 
+- Park -> Chat with Fanora -> $30
+- Library -> Chat with Nefari
 
 #### Night:
-- 
-
-#### Late night:
-- 
-
-<br>
-<br>
-<br>
-
-## Day  - day
-#### Morning:
-- 
-
-#### Afternoon:
-- 
-
-#### Night:
-- 
-
-#### Late night:
-- 
-
-<br>
-<br>
-<br>
-
-<!---
-
-- check CAMS every time period
-- Velle 7 - Afternoon/Night - Velvet Desires | Ask for Velle.
-
-- Garden -> Esther -> Ask to get.. -> Fix her computer
-    - check Naira's diary after event
-- Fanora 7 - Afternoon - Sweet Treats | Talk to her. Your room>PC | Buy the items on the internet. (((Afternoon - Sweet Treats or Night - Her room | Talk to her.)))
-- Nefari 7 - Afternoon - Library | Talk to her.
-
-- Naira 7 - Night - Her room | Visit her.
-
-
-
-
-
-- Esther 8 - CHANGED SCENE Night - Her room | Hang out with her.
-- Fanora 8 - Morning - Her room | Visit her, go with her.
-- Naira 8 - Night - Pool | Visit the pool.
-- Nefari 8 - Morning - Her room | Visit her (you’ll see a flyer on the floor). Morning - Mall>Full Moon | Enter the store.
-- Velle 8 - Morning - Her room | Visit her.
-
-
-get uncen images, send to mod and ask to post walkt link
-
-- Esther 8 - 
-- Fanora 8 - 
-- Naira 8 - 
-- Nefari 8 - 
-- Velle 8 - 
-
---->
+- Naira's room -> Peep -> Jerk off
