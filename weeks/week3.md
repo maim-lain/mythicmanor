@@ -16,13 +16,10 @@
 
 ## Day 15 - Monday
 #### Morning:
-- 
-
-#### Afternoon:
-- 
+- Fanora's room -> Yeah -> Nah
 
 #### Night:
-- 
+- Esther's room -> You look really hot
 
 #### Late night:
 - 
@@ -42,22 +39,21 @@
     - Garden -> Esther -> Ask to get.. -> Fix her computer
 
 
-
 - Esther 8 - CHANGED SCENE Night - Her room | Hang out with her.
-- Fanora 8 - Morning - Her room | Visit her, go with her.
 - Naira 8 - Night - Pool | Visit the pool.
 - Nefari 8 - Morning - Her room | Visit her (you’ll see a flyer on the floor). Morning - Mall>Full Moon | Enter the store.
 - Velle 8 - Morning - Her room | Visit her.
 
 
 
+
 get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
 
-- Esther 8 - 
-- Fanora 8 - 
-- Naira 8 - 
-- Nefari 8 - 
-- Velle 8 - 
+- Esther 9 - 
+- Fanora 9 - 
+- Naira 9 - 
+- Nefari 9 - 
+- Velle 9 - 
 
 
 
