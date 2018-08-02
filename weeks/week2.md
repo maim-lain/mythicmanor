@@ -110,13 +110,13 @@
     - Call for help -> Get Velle
 
 #### Afternoon:
-- 
+- Cafe -> Chat with Naira
+    - I got you sunscreen
+    - Sounds good
+    - Sure
 
 #### Night:
-- 
-
-#### Late night:
-- 
+- Fanora's room -> Make eggs and toast
 
 <br>
 <br>
@@ -124,7 +124,8 @@
 
 ## Day 13 - Saturday
 #### Morning:
-- 
+- Velle's room
+- Computer -> GameHub
 
 #### Afternoon:
 - 
@@ -159,16 +160,32 @@
 <!---
 
 - check CAMS every time period
-- Esther 8 - 
+- Velle 7 - Afternoon/Night - Velvet Desires | Ask for Velle.
 
-- Velle 7 - Morning - Her room | Visit her. Afternoon/Night - Velvet Desires | Ask for Velle.
-
-- check Naira's diary after event
-- Naira 6 - Morning/Afternoon - Mall>Mini Mart | Ask for the item and buy it. Afternoon - Cafe | Chat with her and give the item you bought to her.
+- Garden -> Esther -> Ask to get.. -> Fix her computer
+    - check Naira's diary after event
 - Fanora 7 - Afternoon - Sweet Treats | Talk to her. Your room>PC | Buy the items on the internet. (((Afternoon - Sweet Treats or Night - Her room | Talk to her.)))
 - Nefari 7 - Afternoon - Library | Talk to her.
 
-- Fanora 6 - Night - Her room | Visit her.
 - Naira 7 - Night - Her room | Visit her.
+
+
+
+
+
+- Esther 8 - CHANGED SCENE Night - Her room | Hang out with her.
+- Fanora 8 - Morning - Her room | Visit her, go with her.
+- Naira 8 - Night - Pool | Visit the pool.
+- Nefari 8 - Morning - Her room | Visit her (you’ll see a flyer on the floor). Morning - Mall>Full Moon | Enter the store.
+- Velle 8 - Morning - Her room | Visit her.
+
+
+get uncen images, send to mod and ask to post walkt link
+
+- Esther 8 - 
+- Fanora 8 - 
+- Naira 8 - 
+- Nefari 8 - 
+- Velle 8 - 
 
 --->
