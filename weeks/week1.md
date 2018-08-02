@@ -76,10 +76,9 @@
 
 #### Afternoon:
 - Library -> Chat with Nefari
-    - Optional: Best Responses
-        - Reading is one of my hobbies
-        - Sure
-        - If you need more material..
+    - Reading is one of my hobbies
+    - Sure
+    - If you need more material..
 - Fitness Center -> Workout
     - Yeah
     - Ask for help
