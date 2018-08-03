@@ -63,7 +63,23 @@
 
 ## Day 32 - Thursday
 #### Morning:
-- 
+- Fitness Center -> Workout
+- Computer -> GameHub
+
+#### Afternoon:
+- Park -> Chat with Fanora
+
+#### Night:
+- Esther's room
+
+<br>
+<br>
+<br>
+
+## Day 33 - Friday
+#### Morning:
+- Fitness Center -> Workout
+- Computer -> GameHub
 
 #### Afternoon:
 - 
@@ -74,7 +90,6 @@
 <br>
 <br>
 <br>
-
 
 - Bulletin board -> Accept task
 - Pool -> Investigate pool -> Watch Esther
@@ -87,25 +102,23 @@
     - Check wardrobe -> Dig around -> Diary entry #4??    
 
 
-- Fanora 12 - Afternoon - Sweet Treats | Talk to her, go with her.
 - Nefari 12 - Afternoon - Library | Click on Aliza.
 - Velle 12 - Afternoon - Velvet Desires | Talk to her.
 
-- Esther 13 - Night - Her room | Visit her.
 - Fanora 13 - Night - Her room | Visit her, hang out.
 - Nefari 13 - Morning - Her room | Talk to her and select the right option. Afternoon - Cafe | Talk to Naira, ask for advice. Afternoon - Gym | Talk to Kaila, ask for advice. Morning - Her room | Talk to her and select the right option.
 - Velle 13 - Afternoon - Mall>High Vibes | Enter the store.
 
+- Esther 14 - Afternoon - Garden | Help her out in the garden.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 
 
 
 
 
-- Esther 13 - 
-- Fanora 13 - 
-- Nefari 13 - 
-- Velle 13 - 
+- Fanora 14 - 
+- Nefari 14 - 
+- Velle 14 - 
 
 ## Day  - day
 #### Morning:
