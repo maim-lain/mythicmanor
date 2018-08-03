@@ -9,25 +9,36 @@
 <br>
 
 ## Day 35 - Sunday
+- Keep photo
 
 <br>
 <br>
 
+## Day 36 - Monday
+#### Morning:
+- Nefari's room -> Talk about swimming -> You're doing great
+
+#### Afternoon:
+- Mall -> High Vibes
+
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
 
 
 <!---
 
+noon:
 - Bulletin board -> Accept task
 - Pool -> Investigate pool -> Watch Esther
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
-    - Check wardrobe -> Dig around -> Diary entry #4??    
+    - Check wardrobe -> Dig around -> Diary entry #4??
 
-
-
-- Nefari 13 - Morning - Her room | Talk to her and select the right option.
-- Velle 13 - Afternoon - Mall>High Vibes | Enter the store.
 
 - Esther 14 - Afternoon - Garden | Help her out in the garden.
 - Fanora 14 - Afternoon - Sweet Treats | Talk to her.
