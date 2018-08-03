@@ -13,44 +13,97 @@
     - I can
 - Option 2: Fanora takes Naira's top off and Naira squirts sunscreen all over Fanora
     - ...
-
-asdf
+- Go grab towels -> Choose top or bottom
 
 <br>
 <br>
+
+## Day 29 - Monday
+#### Morning:
+- Fitness Center -> Workout
+- Computer -> GameHub
+
+#### Afternoon:
+- Garden -> Esther -> Ask to get.. -> Fix her computer
+- Check wardrobe -> Dig around -> Diary entry #462
+- Velvet Desires
+
+#### Night:
+- Nefari's room
+
+<br>
+<br>
+<br>
+
+## Day 30 - Tuesday
+#### Morning:
+- Click your door
+
+#### Night:
+- Naira's room
+
+<br>
+<br>
+<br>
+
+## Day 31 - Wednesday
+#### Morning:
+- Fitness Center -> Workout
+- Computer -> GameHub
+
+#### Afternoon:
+- Garden -> Chat with Esther -> Computer -> Check under bed
+
+#### Night:
+- Bed -> Sleep
+
+<br>
+<br>
+<br>
+
+## Day 32 - Thursday
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
+
+<br>
+<br>
+<br>
+
+
+- Bulletin board -> Accept task
+- Pool -> Investigate pool -> Watch Esther
+
 
 <!---
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
-    - Check wardrobe -> Dig around -> Diary entry #4??
+    - Check wardrobe -> Dig around -> Diary entry #4??    
 
-- Nefari's room (morn)
-- Velle 10 - afternoon:
-    - Velvet Desires
 
-- Velle 11 - Morning - Your room | Leave your room (click your door) in the morning.
-
-- Esther 12 - Afternoon - Garden | Chat with her, then get what she asks for. CHECK HER PC!
 - Fanora 12 - Afternoon - Sweet Treats | Talk to her, go with her.
 - Nefari 12 - Afternoon - Library | Click on Aliza.
 - Velle 12 - Afternoon - Velvet Desires | Talk to her.
 
+- Esther 13 - Night - Her room | Visit her.
+- Fanora 13 - Night - Her room | Visit her, hang out.
+- Nefari 13 - Morning - Her room | Talk to her and select the right option. Afternoon - Cafe | Talk to Naira, ask for advice. Afternoon - Gym | Talk to Kaila, ask for advice. Morning - Her room | Talk to her and select the right option.
+- Velle 13 - Afternoon - Mall>High Vibes | Enter the store.
+
+- Naira 16 - Afternoon - Cafe | Talk to her, go with her.
+
+
+
+
+
 - Esther 13 - 
 - Fanora 13 - 
-- Naira 13 - 
-- Nefari 13 - 
-- Velle 13 - 
-
-- Naira 15 - Night - Her room | Visit her.
-
-
-
-
-
-- Esther 13 - 
-- Fanora 13 - 
-- Naira 13 - 
 - Nefari 13 - 
 - Velle 13 - 
 
