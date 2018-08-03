@@ -46,7 +46,7 @@ Esther | Garden
 Fanora | Park
 Naira | Cafe
 Nefari | Library
-Velle | ?
+Velle | Club
 
 <br>
 
