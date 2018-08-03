@@ -39,10 +39,53 @@
 
 ## Day 17 - Wednesday
 #### Morning:
-- 
+- Velle's room
 
 #### Afternoon:
-- 
+- Garden -> Esther -> Give book -> Chat
+- Art studio -> Ask about spade
+    - I can do that -> Well it's turning me on
+
+#### Night:
+- Manor -> Bathroom -> Peep
+
+<br>
+<br>
+<br>
+
+## Day 18 - Thursday
+#### Morning:
+- Fanora's room
+
+#### Afternoon:
+- Garden -> Esther -> Help out
+
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
+
+## Day 19 - Friday
+#### Morning:
+- Naira's room -> Sure
+    - Try to win it -> Keep shooting the center
+    - Put your arm around her
+
+<br>
+<br>
+<br>
+
+## Day 20 - Saturday
+#### Morning:
+- Closet -> Search box
+- Kitchen -> Search drawer under the microwave
+- Park -> Click on the quest icon
+
+#### Afternoon:
+- Bathroom -> Search the bottom sink drawer
+- Your room -> Inspect safe
 
 #### Night:
 - 
@@ -60,13 +103,12 @@
     - Garden -> Esther -> Ask to get.. -> Fix her computer
 
 
-- Velle 8 - Morning - Her room | Visit her.
-- Esther 9 - Afternoon - Garden | Chat with her. Afternoon/Night - Art Studio | Ask for an item. Afternoon - Garden | Return the item to Esther (help her out in the garden).
-- Fanora 9 - Morning - Her room | Visit her.
-- Naira 9 - Morning - Her room | Visit her and go with her.
-- Nefari 9 - Night - Bathroom | Peep or open door to the bathroom.
 - Velle 9 - Morning - Park | Click on quest icon, complete the event. Morning/Night - Her room | Visit her.
-
+- Esther 10 - Afternoon - Garden | Help her out in the garden.
+- Fanora 10 - Morning - Mall | Visit the mall.
+- Naira 10 - Afternoon - Her room | Visit her.
+- Nefari 10 - Afternoon - Library | Click on her.   
+- Velle 10 - Afternoon - Velvet Desires | Visit the club.
 
 
 get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
