@@ -82,43 +82,52 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- 
+- Library -> Aliza
 
 #### Night:
-- 
+- Fanora's room -> Want to look at mine?
 
 <br>
 <br>
 <br>
 
-- Bulletin board -> Accept task
-- Pool -> Investigate pool -> Watch Esther
+## Day 34 - Saturday
+#### Morning:
+- Nefari's room -> Talk about swimming
+- Computer -> GameHub
+
+#### Afternoon:
+- Cafe -> Naira -> Ask for advice
+- Gym -> Kaila -> Ask for advice
+- Velvet Desires -> Velle -> Ask for advice -> Chat
+
+#### Night:
+- Bed -> Sleep
 
 
 <!---
+
+- Bulletin board -> Accept task
+- Pool -> Investigate pool -> Watch Esther
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
     - Check wardrobe -> Dig around -> Diary entry #4??    
 
 
-- Nefari 12 - Afternoon - Library | Click on Aliza.
-- Velle 12 - Afternoon - Velvet Desires | Talk to her.
 
-- Fanora 13 - Night - Her room | Visit her, hang out.
-- Nefari 13 - Morning - Her room | Talk to her and select the right option. Afternoon - Cafe | Talk to Naira, ask for advice. Afternoon - Gym | Talk to Kaila, ask for advice. Morning - Her room | Talk to her and select the right option.
+- Nefari 13 - Morning - Her room | Talk to her and select the right option.
 - Velle 13 - Afternoon - Mall>High Vibes | Enter the store.
 
 - Esther 14 - Afternoon - Garden | Help her out in the garden.
+- Fanora 14 - Afternoon - Sweet Treats | Talk to her.
+- Nefari 14 - Afternoon - Library | Enter the library. Afternoon - Mall>Full Moon | Talk to Kylie, ask about the person.
+- Velle 14 - Night - Her room | Visit her.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 
 
 
 
-
-- Fanora 14 - 
-- Nefari 14 - 
-- Velle 14 - 
 
 ## Day  - day
 #### Morning:
