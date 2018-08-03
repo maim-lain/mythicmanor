@@ -31,6 +31,7 @@
 ## Day 23 - Tuesday
 #### Morning:
 - Computer -> Surveillance -> Esther
+- Naira's room
 - Esther's room -> Have her try on all three
 
 #### Night:
@@ -47,11 +48,7 @@
 #### Afternoon:
 - Garden -> Esther -> Ask to get.. -> Fix her computer
 - Plushy -> Check wardrobe -> Dig around -> Diary entry #450
-- Library -> Nefari
-    - Option 1: The assistant strips for you
-        - Ask for help
-    - Option 2: Look at nudes of Nefari
-        - Continue
+- Cafe -> Chat with Naira -> Order $2 drink -> Can you try..
 
 #### Night:
 - Computer -> GameHub
@@ -62,14 +59,14 @@
 
 ## Day 25 - Thursday
 #### Morning:
-- Naira's room
 - Computer -> GameHub
 
 #### Afternoon:
-- Velvet Desires
+- Cafe -> Naira
+- Park -> Click the tree behind the bench
 
 #### Night:
-- Nefari's room
+- Bed -> Sleep
 
 <br>
 <br>
@@ -77,36 +74,49 @@
 
 ## Day 26 - Friday
 #### Morning:
-- 
+- Fitness Center -> Workout
+- Computer -> GameHub
 
 #### Afternoon:
-- 
+- Cafe -> Chat with Naira
+- Library -> Nefari
+    - Option 1: The assistant strips for you
+        - Ask for help
+    - Option 2: Look at nudes of Nefari
+        - Continue
 
 #### Night:
-- 
+- Bed -> Sleep
 
 <br>
 <br>
 <br>
+
+## Day 27 - Saturday
+#### Morning:
+- We haven't done it -> Show her -> Go ahead
+
+<br>
+<br>
+<br>
+
 
 <!---
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
     - Check wardrobe -> Dig around -> Diary entry #4??
-THRUS - REDO!!!!! NEED NAIRAS DONE! 12
-FRI - NEED NAIRAS DONE! 13
-SAT - NEED NAIRAS DONE! 14
+
+- Nefari's room (morn)
+- Velle 10 - afternoon:
+    - Velvet Desires
 
 - Velle 11 - Morning - Your room | Leave your room (click your door) in the morning.
+
 - Esther 12 - Afternoon - Garden | Chat with her, then get what she asks for. CHECK HER PC!
 - Fanora 12 - Afternoon - Sweet Treats | Talk to her, go with her.
-- Naira 12 - Afternoon - Cafe | Order something.
-- Nefari 12 - 
-- Velle 12 - 
-- Naira 13 - Afternoon - Cafe | Visit her. Afternoon - Park | Click on bushes behind the bench. Afternoon - Cafe | Talk to her.
-
-get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
+- Nefari 12 - Afternoon - Library | Click on Aliza.
+- Velle 12 - Afternoon - Velvet Desires | Talk to her.
 
 - Esther 13 - 
 - Fanora 13 - 
@@ -114,8 +124,17 @@ get uncen images, send to mod say cen are from patreon here are uncen, and ask t
 - Nefari 13 - 
 - Velle 13 - 
 
+- Naira 15 - Night - Her room | Visit her.
 
 
+
+
+
+- Esther 13 - 
+- Fanora 13 - 
+- Naira 13 - 
+- Nefari 13 - 
+- Velle 13 - 
 
 ## Day  - day
 #### Morning:
