@@ -14,30 +14,74 @@
 <br>
 <br>
 
+## Day 22 - Monday
+#### Morning:
+- Fanora's room -> Mall
 
+#### Afternoon:
+- Naira's room -> Lift up her shirt -> Pull down panties
 
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
+
+## Day 23 - Tuesday
+#### Morning:
+- Computer -> Surveillance -> Esther
+- Esther's room -> Have her try on all three
+
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
+
+## Day 24 - Wednesday
+#### Morning:
+- Fanora's room -> Show me your boobs
+
+#### Afternoon:
+- Garden -> Esther -> Ask to get.. -> Fix her computer
+- Plushy -> Check wardrobe -> Dig around -> Diary entry #450
+- Library -> Nefari
+    - Option 1: The assistant strips for you
+        - Ask for help
+    - Option 2: Look at the nudes of Nefari
+        - Continue
+
+#### Night:
+- 
+
+<br>
+<br>
+<br>
 
 
 <!---
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
+    - Check wardrobe -> Dig around -> Diary entry #4??
 
-
-- Fanora 10 - Morning - Mall | Visit the mall.
-- Naira 10 - Afternoon - Her room | Visit her.
-- Nefari 10 - Afternoon - Library | Click on her.   
+- Nefari 10 - Afternoon - Library | Click on her.
 - Velle 10 - Afternoon - Velvet Desires | Visit the club.
-- Esther 11 - Morning - Your room | Look at her camera through your PC. Morning - Her room | Visit her.
+- Naira 11 - Morning - Her room | Visit her.
+- Nefari 11 - Night - Her room | Visit her.
+- Velle 11 - Morning - Your room | Leave your room (click your door) in the morning.
+- Esther 12 - Afternoon - Garden | Chat with her, then get what she asks for. CHECK HER PC!
 
 
 get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
 
-- Esther 11 - 
-- Fanora 11 - 
-- Naira 11 - 
-- Nefari 11 - 
-- Velle 11 - 
+- Esther 12 - 
+- Fanora 12 - 
+- Naira 12 - 
+- Nefari 12 - 
+- Velle 12 - 
 
 
 
