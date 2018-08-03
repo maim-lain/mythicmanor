@@ -21,6 +21,32 @@
 #### Night:
 - Esther's room -> You look really hot
 
+<br>
+<br>
+<br>
+
+## Day 16 - Tuesday
+#### Morning:
+- Esther's room -> Mall -> Clothing store
+    - Let him be -> Confront him
+
+#### Night:
+- Pool -> Me too -> Splash her
+
+<br>
+<br>
+<br>
+
+## Day 17 - Wednesday
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
+
 #### Late night:
 - 
 
@@ -28,32 +54,28 @@
 <br>
 <br>
 
-
-
 <!---
-
-- check CAMS every time period
-- Velle 7 - Afternoon/Night - Velvet Desires | Ask for Velle.
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
 
 
-- Esther 8 - CHANGED SCENE Night - Her room | Hang out with her.
-- Naira 8 - Night - Pool | Visit the pool.
-- Nefari 8 - Morning - Her room | Visit her (you’ll see a flyer on the floor). Morning - Mall>Full Moon | Enter the store.
 - Velle 8 - Morning - Her room | Visit her.
+- Esther 9 - Afternoon - Garden | Chat with her. Afternoon/Night - Art Studio | Ask for an item. Afternoon - Garden | Return the item to Esther (help her out in the garden).
+- Fanora 9 - Morning - Her room | Visit her.
+- Naira 9 - Morning - Her room | Visit her and go with her.
+- Nefari 9 - Night - Bathroom | Peep or open door to the bathroom.
+- Velle 9 - Morning - Park | Click on quest icon, complete the event. Morning/Night - Her room | Visit her.
 
 
 
-@ the one guy for mom patch
 get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
 
-- Esther 9 - 
-- Fanora 9 - 
-- Naira 9 - 
-- Nefari 9 - 
-- Velle 9 - 
+- Esther 10 - 
+- Fanora 10 - 
+- Naira 10 - 
+- Nefari 10 - 
+- Velle 10 - 
 
 
 
