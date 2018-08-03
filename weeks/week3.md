@@ -46,7 +46,7 @@
 
 
 
-
+@ the one guy for mom patch
 get uncen images, send to mod say cen are from patreon here are uncen, and ask to post walkt link
 
 - Esther 9 - 
