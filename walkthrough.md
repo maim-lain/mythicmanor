@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 3](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week3.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 4](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week4.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 5](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week5.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 6 (30% complete)](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week6.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 6](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week6.md)  
 
 <br>
 
