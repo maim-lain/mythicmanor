@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## Day 0 - Sunday
+## Intro - Sunday
 #### Afternoon:
 - Watch for a bit longer
 - Go to the pool
