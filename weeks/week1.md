@@ -46,11 +46,11 @@
     - Check near the bench -> That's a condom
     - Give up
 - Thick Creams Cafe -> Chat with Naira -> You can either make her happy or embarrassed, choose whichever
-    - Make her happy:
+    - Option 1: Make her happy
         - No big deal
         - Help her up
         - Don't worry about it
-    - Make her embarrassed:
+    - Option 2: Make her embarrassed
         - Are you always that clumsy?
         - Stare at her panties
         - Thanks for the free..
@@ -152,9 +152,9 @@
 ## Day 6 - Saturday
 #### Morning:
 - Bathroom -> You can either peep or be direct, choose whichever you prefer
-    - Peep:
+    - Option 1: Peep
         - Peep -> Keep peeping
-    - Enter bathroom:
+    - Option 2: Enter bathroom
         - Enter -> Why are you so exposed?
 - Naira's room -> Peep -> Continue peeping -> For a little while
 
