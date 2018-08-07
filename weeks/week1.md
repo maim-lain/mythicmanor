@@ -38,13 +38,7 @@
 - Bathroom -> Click the exclaimation mark box in the top right
 - Clicking on the map in the top right of the screen lets you travel around the city
 - New Lark Park -> Click on the ice cream sign to go to Sweet Treats
-- Chat with Fanora
-    - Just wanted to visit
-    - Should I be..
-    - Check the first two places
-    - Check near the tree -> Cute bra
-    - Check near the bench -> That's a condom
-    - Give up
+- Chat with Fanora -> Check everywhere then give up
 - Thick Creams Cafe -> Chat with Naira -> You can either make her happy or embarrassed, choose whichever
     - Option 1: Make her happy
         - No big deal
