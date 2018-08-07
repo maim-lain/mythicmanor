@@ -30,7 +30,7 @@
 ## Day 1 - Monday
 #### Morning:
 - Fanora's room -> Ask her the three questions
-- Naira's room -> Ask her the three questions -> Examine the shopping bag left of her dresser
+- Naira's room -> Ask her the three questions -> Examine the shopping bag
 - Esther's room
 
 #### Afternoon:
@@ -39,13 +39,12 @@
 - Clicking on the map in the top right of the screen lets you travel around the city
 - New Lark Park -> Click on the ice cream sign to go to Sweet Treats
 - Chat with Fanora
-    - Optional: Best responses
-        - Just wanted to visit
-        - Should I be..
-        - Check the first two places
-        - Check near the tree -> Cute bra
-        - Check near the bench -> That's a condom
-        - Give up
+    - Just wanted to visit
+    - Should I be..
+    - Check the first two places
+    - Check near the tree -> Cute bra
+    - Check near the bench -> That's a condom
+    - Give up
 - Thick Creams Cafe -> Chat with Naira -> You can either make her happy or embarrassed, choose whichever
     - Make her happy:
         - No big deal
@@ -153,9 +152,10 @@
 ## Day 6 - Saturday
 #### Morning:
 - Bathroom -> You can either peep or be direct, choose whichever you prefer
-    - Peep -> Keep peeping
-    - or
-    - Enter -> Why are you so exposed?
+    - Peep:
+        - Peep -> Keep peeping
+    - Enter bathroom:
+        - Enter -> Why are you so exposed?
 - Naira's room -> Peep -> Continue peeping -> For a little while
 
 #### Afternoon:
