@@ -15,7 +15,7 @@
 
 ## Changelog:
 - Restored the incest scene with the mom to the game. If you replay the 4th Esther scene in the gallery you can choose to play the original incest scene or the new Esther scene.
-- Have you ever wanted to visit a girl in her room, but found out she was 5 feet away in the bathroom and then you had to wait 6 hours outside of her room just to talk to her? Well now you can tell her to hurry the fuck up! If a girl is in the pool or bathroom, visiting her in her room is now no longer disabled. Once you are able to sneak into someone's room, if you knock on her door and she isn't there you can either sneak into her room like you normally would or tell her to come to her room.
+- Have you ever wanted to visit a girl in her room, but found out she was 5 feet away in the bathroom and then you had to wait 6 hours outside of her room just to talk to her? Well now you can tell her to hurry the fuck up! If a girl is in the pool or bathroom, visiting her in her room is now no longer disabled. Also, once you are able to sneak into someone's room, if you knock on her door and she isn't there you can either sneak into her room like you normally would or tell her to come to her room.
 - Removed the RNG and restrictions from the porn videos. There is now a menu so you can choose to watch any video you want. One new video becomes available after each day and all the videos become unlocked after the first week.
 - Changed the rollback (rewind) limit from 8 to 50! Limiting the max number of messages you could rewind was annoying and 8 was way too low.
 - The requirements for doing Natasha's first scene was buggy, so now you no longer have to view the other stalls multiple times to watch the scene.
