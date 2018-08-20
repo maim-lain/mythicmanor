@@ -27,7 +27,7 @@
 
 ## Day 16 - Tuesday
 #### Morning:
-- Esther's room -> Mall -> Clothing store
+- Nefari's room -> Mall -> Clothing store
     - Let him be -> Confront him
 
 #### Night:
