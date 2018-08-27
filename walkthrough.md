@@ -47,6 +47,7 @@ Fanora | Park
 Naira | Cafe
 Nefari | Library
 Velle | Club
+Jade | Park
 
 <br>
 
