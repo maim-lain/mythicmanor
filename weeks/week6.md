@@ -110,7 +110,7 @@ noon:
 - Velle 15 - Afternoon - Gym>Shower Area | Click on the women’s shower area door. Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
 - Esther 16 - Afternoon - Art Studio | Register for a class.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
-- Nefari 16 - 
+- Nefari 16 - Afternoon - Library | Talk to her.
 - Fanora 17 - Morning - Her room | Visit her, go with her.
 
 
