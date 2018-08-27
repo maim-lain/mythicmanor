@@ -80,7 +80,7 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- Mall -> Full Moon -> Kylie -> Ask about janitor -> Shhh!
+- Park -> Jade -> Chat -> Give money -> Spare $50 -> Chat
 
 #### Night:
 - Computer -> Pornland -> Watch any video
@@ -92,7 +92,11 @@
 
 ## Day 41 - Saturday
 #### Morning:
-- Nefari's room
+- Fanora's room
+  - Option 1: Play with breasts
+    - Force it in
+  - Option 2: Finger her
+    - Finger her
 
 #### Night:
 - Computer -> GameHub
@@ -107,18 +111,24 @@ noon:
 - Bulletin board -> Accept task
 - Pool -> Investigate pool -> Watch Esther
 
-- Park -> Jade -> Chat -> Give money -> Spare $50 -> Chat
-
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
     - Check wardrobe -> Dig around -> Diary entry #4??
 
 
+
+- Park -> Jade -> Chat -> Give money -> Spare $50 -> Chat
+
+- Nefari 15 - afternoon:
+- Mall -> Full Moon -> Kylie -> Ask about janitor -> Shhh!
+#### Morning:
+- Nefari's room
+
 - Velle 15 - Afternoon - Gym>Shower Area | Click on the women’s shower area door. Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
 - Esther 16 - Afternoon - Art Studio | Register for a class.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 - Nefari 16 - Afternoon - Library | Talk to her.
-- Fanora 17 - Morning - Her room | Visit her, go with her.
+- Fanora 18 - 
 
 
 
