@@ -28,6 +28,36 @@
 <br>
 <br>
 
+## Day 37 - Tuesday
+#### Morning:
+- Computer -> GameHub
+
+#### Afternoon:
+- Garden -> Esther -> Help out -> Sure -> Whip it out
+
+#### Night:
+- Velle's room
+
+<br>
+<br>
+<br>
+
+## Day 38 - Wednesday
+#### Morning:
+- 
+
+#### Afternoon:
+- 
+
+#### Night:
+- 
+
+<br>
+<br>
+<br>
+
+
+
 
 <!---
 
@@ -40,10 +70,10 @@ noon:
     - Check wardrobe -> Dig around -> Diary entry #4??
 
 
-- Esther 14 - Afternoon - Garden | Help her out in the garden.
 - Fanora 14 - Afternoon - Sweet Treats | Talk to her.
 - Nefari 14 - Afternoon - Library | Enter the library. Afternoon - Mall>Full Moon | Talk to Kylie, ask about the person.
-- Velle 14 - Night - Her room | Visit her.
+- Esther 15 - Morning - Her room | Visit her.
+- Velle 15 - Afternoon - Gym>Shower Area | Click on the women’s shower area door. Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 
 
@@ -65,7 +95,7 @@ noon:
 <br>
 
 - Naira Accessible room content | Naira’s diary (more entries as Naira levels up), Naira’s locked box. (Password for the box is in Diary entry #473 - “naira+[mc]” with “[mc]” being your character’s name). You may also use “naira+mc” if your name is not working.
-- when esther is lvl 13 watch p in the morning
+- when esther is lvl 13 watch p in the morning ??????
 - Magic Lake -> Dock -> Look around (at night)
 
 --->
