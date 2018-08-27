@@ -19,8 +19,7 @@
 - Nefari's room -> Talk about swimming -> You're doing great
 
 #### Afternoon:
-- Park -> Homeless girl -> Chat
-- Give money -> Spare $20 -> Spare $5
+- Park -> Homeless girl -> Chat -> Give money -> Spare $20 -> Spare $5
 - Mall -> High Vibes
 
 #### Night:
