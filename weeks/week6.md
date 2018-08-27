@@ -44,6 +44,34 @@
 
 ## Day 38 - Wednesday
 #### Morning:
+- Esther's room
+
+#### Afternoon:
+- Park -> Fanora -> Chat
+
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
+
+## Day 39 - Thursday
+#### Morning:
+- Garden
+
+#### Afternoon:
+- Library
+
+#### Night:
+- Computer -> GameHub
+
+<br>
+<br>
+<br>
+
+## Day 40 - Friday
+#### Morning:
 - 
 
 #### Afternoon:
@@ -57,8 +85,6 @@
 <br>
 
 
-
-
 <!---
 
 noon:
@@ -70,10 +96,10 @@ noon:
     - Check wardrobe -> Dig around -> Diary entry #4??
 
 
-- Fanora 14 - Afternoon - Sweet Treats | Talk to her.
-- Nefari 14 - Afternoon - Library | Enter the library. Afternoon - Mall>Full Moon | Talk to Kylie, ask about the person.
-- Esther 15 - Morning - Her room | Visit her.
+- Nefari 14 - Afternoon - Mall>Full Moon | Talk to Kylie, ask about the person.
 - Velle 15 - Afternoon - Gym>Shower Area | Click on the women’s shower area door. Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
+- Esther 16 - Afternoon - Art Studio | Register for a class.
+- Fanora 16 - Night - Your room | Watch some porn on your PC.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 
 
