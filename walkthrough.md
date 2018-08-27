@@ -25,6 +25,7 @@
 | [Week 4](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week4.md) |
 | [Week 5](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week5.md) |
 | [Week 6](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week6.md) |
+| [Week 7](https://github.com/maim-lain/mythicmanor/blob/master/weeks/week7.md) |
 
 <br>
 
