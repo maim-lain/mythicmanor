@@ -47,11 +47,11 @@
 
 ## Day 45 - Wednesday
 #### Morning:
+- Mall -> High Vibes
 - Computer -> GameHub
 
 #### Afternoon:
-
-#### Night:
+- Cafe -> Naira -> Chat
 
 <br>
 <br>
@@ -59,12 +59,16 @@
 
 ## Day 45 - Thursday
 #### Morning:
+- Fitness Center -> Ask about classes -> Buy class
+- Naira's room
+- Computer -> GameHub
 
 #### Afternoon:
-- 
+- Library -> Nefari -> Chat
 
 #### Night:
-- 
+- Velvet Desires -> Celeste -> Give her the package
+- Esther's room sdfd
 
 <br>
 <br>
@@ -79,11 +83,11 @@
 
 
 
-- Velle 15 - Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
-- Naira 16 - Afternoon - Cafe | Talk to her, go with her.
+- Velle 16 - Afternoon - Velvet Desires | Talk to her.
 - Nefari 16 - Afternoon - Library | Talk to her.
 - Esther 17 - Night - Her room | Visit her.
 - Fanora 18 - Afternoon - Sweet Treats | Talk to her.
+- Naira 18 - Afternoon - Cafe | Go to the cafe.
 
 
 
