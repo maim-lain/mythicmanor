@@ -79,7 +79,7 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- Park -> Jade -> Chat -> Give money -> Spare $100 -> Chat
+- Mall -> Full Moon -> Kylie -> Ask about janitor -> Shhh!
 
 #### Night:
 - Computer -> Pornland -> Watch any video
@@ -91,11 +91,7 @@
 
 ## Day 41 - Saturday
 #### Morning:
-- Fanora's room
-  - Option 1: Play with breasts
-    - Force it in
-  - Option 2: Finger her
-    - Finger her
+- Nefari's room
 
 #### Night:
 - Computer -> GameHub
