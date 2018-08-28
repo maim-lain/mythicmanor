@@ -16,18 +16,14 @@
 
 ## Day 43 - Monday
 #### Morning:
-- Computer -> GameHub
-
-#### Afternoon:
-- Park -> Jade
+- Fanora's room
+  - Option 1: Play with breasts
+    - Force it in
+  - Option 2: Finger her
+    - Finger her
 
 #### Night:
-- Hallway -> Bulletin board -> Read task -> Accept
-- Night:
-  - If the pool is empty:
-    - Pool -> Investigate the pool -> Watch Esther
-  - If someone is in the pool:
-    - Bed -> Sleep
+- Computer -> GameHub
 
 <br>
 <br>
@@ -38,13 +34,12 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- Park -> Jade -> Give money -> Spare $100 -> $100 -> $100 -> $5 -> Chat -> Invite
+- Fitness Center -> Women's shower
+- Art Studio -> Register for a class
 
 #### Night:
-- If the pool is empty:
-  - Pool -> Investigate the pool -> Watch Esther
-- If someone is in the pool:
-  - Bed -> Sleep
+- Hallway -> Bulletin board -> Accept task
+- Pool -> Investigate pool -> Watch Esther
 
 <br>
 <br>
@@ -52,7 +47,18 @@
 
 ## Day 45 - Wednesday
 #### Morning:
-- 
+- Computer -> GameHub
+
+#### Afternoon:
+
+#### Night:
+
+<br>
+<br>
+<br>
+
+## Day 45 - Thursday
+#### Morning:
 
 #### Afternoon:
 - 
@@ -64,12 +70,8 @@
 <br>
 <br>
 
-
 <!---
 
-noon:
-- Bulletin board -> Accept task
-- Pool -> Investigate pool -> Watch Esther
 
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
@@ -77,18 +79,20 @@ noon:
 
 
 
-- Nefari 15 - afternoon:
-- Mall -> Full Moon -> Kylie -> Ask about janitor -> Shhh!
-#### Morning:
-- Nefari's room
-
-- Velle 15 - Afternoon - Gym>Shower Area | Click on the women’s shower area door. Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
-- Esther 16 - Afternoon - Art Studio | Register for a class.
+- Velle 15 - Morning - Mall>High Vibes | Enter the store. Night - Velvet Desires | Give the item to Celeste.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 - Nefari 16 - Afternoon - Library | Talk to her.
+- Esther 17 - Night - Her room | Visit her.
 - Fanora 18 - Afternoon - Sweet Treats | Talk to her.
 
 
+
+Jade:
+- Park -> Jade -> Chat -> Give money -> Spare $100 -> Chat
+- Park -> Jade
+- Park -> Jade -> Give money -> Spare $100 -> $100 -> $100 -> $100??? -> Chat -> Invite
+- Park
+- Mall -> Doggie Style
 
 
 
