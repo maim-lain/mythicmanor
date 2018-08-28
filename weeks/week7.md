@@ -16,6 +16,38 @@
 
 ## Day 43 - Monday
 #### Morning:
+- Computer -> GameHub
+
+#### Afternoon:
+- Park -> Jade
+
+#### Night:
+- Hallway -> Bulletin board -> Read task -> Accept
+- If the pool is empty
+  - Pool -> Investigate the pool -> Watch Esther
+- If someone is in the pool
+  - Bed -> Sleep
+
+<br>
+<br>
+<br>
+
+## Day 44 - Tuesday
+#### Morning:
+- Computer -> GameHub
+
+#### Afternoon:
+- Park -> Jade -> Give money -> Spare $100 -> $100 -> $100 -> $5 -> Chat -> Invite
+
+#### Night:
+- Bed -> Sleep
+
+<br>
+<br>
+<br>
+
+## Day 45 - Wednesday
+#### Morning:
 - 
 
 #### Afternoon:
@@ -27,6 +59,7 @@
 <br>
 <br>
 <br>
+
 
 <!---
 
@@ -40,8 +73,6 @@ noon:
 
 
 
-- Park -> Jade -> Chat -> Give money -> Spare $50 -> Chat
-
 - Nefari 15 - afternoon:
 - Mall -> Full Moon -> Kylie -> Ask about janitor -> Shhh!
 #### Morning:
@@ -51,7 +82,7 @@ noon:
 - Esther 16 - Afternoon - Art Studio | Register for a class.
 - Naira 16 - Afternoon - Cafe | Talk to her, go with her.
 - Nefari 16 - Afternoon - Library | Talk to her.
-- Fanora 18 - 
+- Fanora 18 - Afternoon - Sweet Treats | Talk to her.
 
 
 
