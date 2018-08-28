@@ -23,10 +23,11 @@
 
 #### Night:
 - Hallway -> Bulletin board -> Read task -> Accept
-- If the pool is empty
-  - Pool -> Investigate the pool -> Watch Esther
-- If someone is in the pool
-  - Bed -> Sleep
+- Night:
+  - If the pool is empty:
+    - Pool -> Investigate the pool -> Watch Esther
+  - If someone is in the pool:
+    - Bed -> Sleep
 
 <br>
 <br>
@@ -40,7 +41,10 @@
 - Park -> Jade -> Give money -> Spare $100 -> $100 -> $100 -> $5 -> Chat -> Invite
 
 #### Night:
-- Bed -> Sleep
+- If the pool is empty:
+  - Pool -> Investigate the pool -> Watch Esther
+- If someone is in the pool:
+  - Bed -> Sleep
 
 <br>
 <br>
