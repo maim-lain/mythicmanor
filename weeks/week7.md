@@ -68,7 +68,7 @@
 
 #### Night:
 - Velvet Desires -> Celeste -> Give her the package
-- Esther's room sdfd
+- Esther's room
 
 <br>
 <br>
@@ -76,16 +76,15 @@
 
 <!---
 
-
 - check Naira's diary after events
     - Garden -> Esther -> Ask to get.. -> Fix her computer
     - Check wardrobe -> Dig around -> Diary entry #4??
 
-
+ 
 
 - Velle 16 - Afternoon - Velvet Desires | Talk to her.
 - Nefari 16 - Afternoon - Library | Talk to her.
-- Esther 17 - Night - Her room | Visit her.
+- Esther 18 - Night - Art Studio | Chat with Elani.
 - Fanora 18 - Afternoon - Sweet Treats | Talk to her.
 - Naira 18 - Afternoon - Cafe | Go to the cafe.
 
