@@ -19,7 +19,7 @@
 - Nefari's room -> Talk about swimming -> You're doing great
 
 #### Afternoon:
-- Park -> Homeless girl -> Chat -> Give money -> Spare $20 -> Spare $5
+- Park -> Homeless girl -> Chat -> Give money -> Spare $100
 - Mall -> High Vibes
 
 #### Night:
@@ -34,7 +34,7 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- Park -> Homeless girl -> Chat -> Give money -> Spare $50
+- Park -> Homeless girl -> Chat -> Give money -> Spare $100
 - Garden -> Esther -> Help out -> Sure -> Whip it out
 
 #### Night:
@@ -49,7 +49,7 @@
 - Esther's room
 
 #### Afternoon:
-- Park -> Jade -> Chat -> Give money -> Spare $100 -> Spare $20 -> Spare $20
+- Park -> Jade -> Chat -> Give money -> Spare $100
 - Park -> Fanora -> Chat
 
 #### Night:
@@ -64,7 +64,7 @@
 - Garden
 
 #### Afternoon:
-- Park -> Jade -> Chat -> Give money -> Spare $100 -> $100 -> $20 -> $5 -> $5 -> Chat
+- Park -> Jade -> Chat -> Give money -> Spare $100 -> Spare $100 -> Chat
 - Library
 
 #### Night:
@@ -79,7 +79,7 @@
 - Computer -> GameHub
 
 #### Afternoon:
-- Park -> Jade -> Chat -> Give money -> Spare $50 -> Chat
+- Park -> Jade -> Chat -> Give money -> Spare $100 -> Chat
 
 #### Night:
 - Computer -> Pornland -> Watch any video
