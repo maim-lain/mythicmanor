@@ -29,22 +29,23 @@
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
 - Mall -> Mini Mart -> Buy clothesline
 - Garden -> Chat with Esther -> Keep the change
-
 ---
-
 #### Level 4
 - Morning &nbsp;-&nbsp; Bathroom -> You can either peep or be direct, choose whichever you prefer
     - Option 1: Peep
         - Peep -> Keep peeping
     - Option 2: Enter bathroom
         - Enter -> Why are you so exposed?
-
 ---
-
 #### Level 5
 - Afternoon &nbsp;-&nbsp; Garden -> Join
-
-<br>
-
+---
 #### Level 6
-- Afternoon &nbsp;-&nbsp; Garden -> Join
+- Morning &nbsp;-&nbsp; Esther's room -> Check closet -> Check right drawer -> Dig around
+---
+#### Level 7
+Required: Velle at least level 6
+- Morning &nbsp;-&nbsp; Garden -> Chat with Esther
+    - Expose her ass
+    - Feel her tits
+    - Call for help -> Get Velle
