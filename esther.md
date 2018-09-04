@@ -29,8 +29,8 @@
 
 ### Level 3
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
-- Mall -> Mini Mart -> Buy clothesline
-- Garden -> Chat with Esther -> Keep the change
+  - Mall -> Mini Mart -> Buy clothesline
+  - Garden -> Chat with Esther -> Keep the change
 
 <br>
 
@@ -70,8 +70,8 @@ Required: Velle at least level 6
 
 ### Level 9
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Chat
-- Art studio -> Ask about spade
-- I can do that -> Well it's turning me on
+  - Art studio -> Ask about spade
+  - I can do that -> Well it's turning me on
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out
 
 <br>
