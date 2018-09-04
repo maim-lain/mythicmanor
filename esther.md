@@ -84,3 +84,28 @@ Required: Velle at least level 6
 ### Level 11
 - Morning &nbsp;-&nbsp; Computer -> Surveillance -> Esther
   - Esther's room -> Have her try on all three
+
+<br>
+
+### Level 12
+- Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther -> Computer -> Check under bed
+
+<br>
+
+### Level 13
+- Night &nbsp;-&nbsp; Esther's room
+
+<br>
+
+### Level 14
+- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out -> Sure -> Whip it out
+
+<br>
+
+### Level 15
+- Morning &nbsp;-&nbsp; Esther's room
+
+<br>
+
+### Level 16
+- Afternoon &nbsp;-&nbsp; Art Studio -> Register for a class
