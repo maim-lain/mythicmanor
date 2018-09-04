@@ -69,14 +69,18 @@ Required: Velle at least level 6
 <br>
 
 ### Level 9
-Afternoon:  
-- Garden -> Esther -> Chat
-- Art studio -> Ask about spade
-- I can do that -> Well it's turning me on
-Afternoon:  
-- Garden -> Esther -> Help out
+- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Chat
+  - Art studio -> Ask about spade
+  - I can do that -> Well it's turning me on
+- Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out
 
 <br>
 
 ### Level 10
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Help out
+
+<br>
+
+### Level 11
+- Morning &nbsp;-&nbsp; Computer -> Surveillance -> Esther
+  - Esther's room -> Have her try on all three
