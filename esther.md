@@ -49,3 +49,11 @@ Required: Velle at least level 6
     - Expose her ass
     - Feel her tits
     - Call for help -> Get Velle
+---
+#### Level 8
+- Night &nbsp;-&nbsp; Esther's room -> You look really hot
+
+If you have the improvements mod installed you can check out the alternate scene in the gallery.
+---
+#### Level 9
+- Night &nbsp;-&nbsp; Esther's room -> You look really hot
