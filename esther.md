@@ -17,18 +17,23 @@
 <br>
 <br>
 
+---
 #### Level 1
 - Morning &nbsp;-&nbsp; Esther's room
 
+---
+
 #### Level 2
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
+
+---
 
 #### Level 3
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
 - Mall -> Mini Mart -> Buy clothesline
 - Garden -> Chat with Esther -> Keep the change
 
-<br>
+---
 
 #### Level 4
 - Morning &nbsp;-&nbsp; Bathroom -> You can either peep or be direct, choose whichever you prefer
@@ -37,7 +42,7 @@
     - Option 2: Enter bathroom
         - Enter -> Why are you so exposed?
 
-<br>
+---
 
 #### Level 5
 - Afternoon &nbsp;-&nbsp; Garden -> Join
