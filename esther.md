@@ -18,43 +18,43 @@
 <br>
 
 ---
-#### Level 1
+### Level 1
 - Morning &nbsp;-&nbsp; Esther's room
 ---
 
-#### Level 2
+### Level 2
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
 ---
-#### Level 3
+### Level 3
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
 - Mall -> Mini Mart -> Buy clothesline
 - Garden -> Chat with Esther -> Keep the change
 ---
-#### Level 4
+### Level 4
 - Morning &nbsp;-&nbsp; Bathroom -> You can either peep or be direct, choose whichever you prefer
     - Option 1: Peep
         - Peep -> Keep peeping
     - Option 2: Enter bathroom
         - Enter -> Why are you so exposed?
 ---
-#### Level 5
+### Level 5
 - Afternoon &nbsp;-&nbsp; Garden -> Join
 ---
-#### Level 6
+### Level 6
 - Morning &nbsp;-&nbsp; Esther's room -> Check closet -> Check right drawer -> Dig around
 ---
-#### Level 7
+### Level 7
 Required: Velle at least level 6
 - Morning &nbsp;-&nbsp; Garden -> Chat with Esther
     - Expose her ass
     - Feel her tits
     - Call for help -> Get Velle
 ---
-#### Level 8
+### Level 8
 - Night &nbsp;-&nbsp; Esther's room -> You look really hot
     - If you have the improvements mod installed you can check out the alternate scene in the gallery
 ---
-#### Level 9
+### Level 9
 - Afternoon &nbsp;-&nbsp; Garden -> Esther -> Give book -> Chat
 - Art studio -> Ask about spade
 - I can do that -> Well it's turning me on
