@@ -20,14 +20,11 @@
 ---
 #### Level 1
 - Morning &nbsp;-&nbsp; Esther's room
-
 ---
 
 #### Level 2
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
-
 ---
-
 #### Level 3
 - Afternoon &nbsp;-&nbsp; Garden -> Chat with Esther
 - Mall -> Mini Mart -> Buy clothesline
