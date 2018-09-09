@@ -22,7 +22,7 @@
 - Removed the dumb RNG from earning money. You now always earn either $45, $55, or $75 depending on your job experience.
 - The pool no longer needs to be empty when you do the third repair event.
 - When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time got annoying. You can just rollback if you accidentally click it.
-- The 2B wallpaper on the computer was honestly so bad that I just had to change it. Making 2B look ugly should be a sin. [Comparison](https://i.lensdump.com/i/8yl1ba.gif)
+- The 2B wallpaper on the computer was honestly so bad that I just had to change it. Making 2B look ugly is a sin. [Comparison](https://i.lensdump.com/i/8yl1ba.gif)
 - If you know of any more small or easy changes/fixes for Mythic Manor, feel free to let me know. Just message @ me in [the thread.](https://f95zone.com/threads/mythic-manor-v0-5-1-jikei.9201/)
 
 <br>
