@@ -28,4 +28,4 @@
 <br>
 
 ## Installation:
-Just unzip the mod and put the "game" folder from the mod in your "MythicManor-0.5.1-pc" folder.
+Just unzip the mod and put the "game" folder from the mod in your "MythicManor-0.6.0-pc" folder.
