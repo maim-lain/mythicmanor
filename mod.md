@@ -1,4 +1,4 @@
-# Mythic Manor - Improvements Mod
+# Mythic Manor - Improvements Mod [v0.6]
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!jWhhWTQQ!CeheI-pZtN2wh88DMZy8Bdl5BYo4afarColetYItI-U)
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!vTxThCIa!yLnhDhgU6kQg63fT1xxiDv-beWd396lwsG-jzoUWdXg)
 
 <br>
 
@@ -21,8 +21,7 @@
 - The requirements for doing Natasha's first scene was buggy, so now you no longer have to view the other stalls multiple times to watch the scene.
 - Removed the dumb RNG from earning money. You now always earn either $45, $55, or $75 depending on your job experience.
 - The pool no longer needs to be empty when you do the third repair event.
-- When you click "Skip Time Forward" the game will no longer ask if you're sure you want to skip. Needing to click "Yes" every single time you use it also got very annoying very fast. You can just rollback if you accidentally click it.
-- When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time was, you guessed it, annoying. You can just rollback if you accidentally click it.
+- When you click on your bed to go to sleep the game will no longer ask if you're sure you want to sleep. Needing to click "Yes" every single time got annoying. You can just rollback if you accidentally click it.
 - The 2B wallpaper on the computer was honestly so bad that I just had to change it. Making 2B look ugly should be a sin. [Comparison](https://i.lensdump.com/i/8yl1ba.gif)
 - If you know of any more small or easy changes/fixes for Mythic Manor, feel free to let me know. Just message @ me in [the thread.](https://f95zone.com/threads/mythic-manor-v0-5-1-jikei.9201/)
 
