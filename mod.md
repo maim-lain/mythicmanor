@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!vTxThCIa!yLnhDhgU6kQg63fT1xxiDv-beWd396lwsG-jzoUWdXg)
+[**DOWNLOAD LINK (MEGA) (looks like there's a bug I'll try to fix it)**]()
 
 <br>
 
