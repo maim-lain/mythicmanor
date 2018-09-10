@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!vTxThCIa!yLnhDhgU6kQg63fT1xxiDv-beWd396lwsG-jzoUWdXg)
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!rDJ0xKyI!zzHik-saA150A-fOBUDbH6cu66xidoS7a40306BHKpw)
 
 <br>
 
@@ -28,5 +28,4 @@
 <br>
 
 ## Installation:
-This mod is NOT compatible with the UnRen console/dev mode enabler.  
 Just unzip the mod and put the "game" folder from the mod in your "MythicManor-0.6.0-pc" folder.
