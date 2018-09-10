@@ -28,5 +28,5 @@
 <br>
 
 ## Installation:
-This mod is NOT compatible with the UnRen console/dev mode mode enabler.
+This mod is NOT compatible with the UnRen console/dev mode mode enabler.  
 Just unzip the mod and put the "game" folder from the mod in your "MythicManor-0.6.0-pc" folder.
