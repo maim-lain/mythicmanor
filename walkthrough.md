@@ -1,11 +1,10 @@
-![](https://i.lensdump.com/i/ACs0e1.png?raw=true)
+![](https://i.lensdump.com/i/ACs0e1.png)
 
 <br>
 
 This walkthrough is old and no longer being updated. The new walkthrough is here:  
 [Mythic Manor - Lain's Walkthrough Mod](https://www.patreon.com/posts/mythic-manor-mod-22541527)
 
-
 <br>
 <br>
 <br>
@@ -20,7 +19,20 @@ This walkthrough is old and no longer being updated. The new walkthrough is here
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Mythic Manor 0.5.1 Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
