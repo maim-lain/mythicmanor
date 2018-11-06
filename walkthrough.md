@@ -2,8 +2,7 @@
 
 <br>
 
-My new and updated walkthrough is here:  
-[Mythic Manor - Lain's Walkthrough Mod](https://www.patreon.com/posts/mythic-manor-mod-22541527)
+My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](https://www.patreon.com/posts/mythic-manor-mod-22541527)
 
 <br>
 <br>
