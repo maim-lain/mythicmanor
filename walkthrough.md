@@ -33,13 +33,13 @@ My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](
 <br>
 <br>
 
-# Mythic Manor 0.5.1 Walkthrough
+# Old: Mythic Manor 0.5.1 Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
 <br>
 
-[**Mythic Manor - Improvements Mod by Maim Lain**](https://github.com/maim-lain/mythicmanor/blob/master/mod.md)
+[**Mythic Manor - Improvements Mod by Maim Lain**](https://www.patreon.com/posts/mythic-manor-mod-22541527)
 
 <br>
 <br>
