@@ -1,4 +1,3 @@
-<!--
 [![](https://i.lensdump.com/i/ACs0e1.png)](https://www.patreon.com/posts/mythic-manor-mod-22541527)
 
 <br>
@@ -33,9 +32,8 @@ My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](
 <br>
 <br>
 <br>
+
 # Old: Mythic Manor 0.5.1 Walkthrough
--->
-# Mythic Manor 0.5.1 Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
