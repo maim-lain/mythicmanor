@@ -1,8 +1,8 @@
-[![](https://i.lensdump.com/i/ACs0e1.png)](https://www.patreon.com/posts/mythic-manor-mod-22541527)
+[![](https://i.lensdump.com/i/ACs0e1.png)](https://subscribestar.adult/posts/236575)
 
 <br>
 
-My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](https://www.patreon.com/posts/mythic-manor-mod-22541527)
+My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](https://subscribestar.adult/posts/236575)
 
 <br>
 <br>
@@ -34,12 +34,12 @@ My new and updated walkthrough is here: [Mythic Manor - Lain's Walkthrough Mod](
 <br>
 
 # Old: Mythic Manor 0.5.1 Walkthrough
-[*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
+[*\~My list of walkthroughs and when they'll be updated\~*](https://subscribestar.adult/lain-games)
 
 <br>
 <br>
 
-[**Mythic Manor - Improvements Mod by Maim Lain**](https://www.patreon.com/posts/mythic-manor-mod-22541527)
+[**Mythic Manor - Improvements Mod by Maim Lain**](https://subscribestar.adult/posts/236575)
 
 <br>
 <br>
